@@ -1,4 +1,8 @@
 {
+  "interval": 60000,
+  "filterRetweets": true,
+  "filterQuotes": false,
+  "limit": 2000,
   "screenName": [
     "feiXiaoHaoZH"
   ]
