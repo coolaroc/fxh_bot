@@ -8,20 +8,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GqC2dKubMAA-c-O.jpg",
     "read_time": "2025-05-04 02:41:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Need administrator rights in the channel chat",
-      "timestamp": "2025-05-04T12:11:46",
-      "notification_sent": false
+      "success": true,
+      "message_id": 27,
+      "timestamp": "2025-05-04T12:40:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 62997,
       "size_mb": 0.06,
-      "timestamp": "2025-05-04T12:11:45",
+      "timestamp": "2025-05-04T12:40:47",
       "download_attempts": 0
     },
     "full_text": "🚀 非小号(https://t.co/LPhHzYtbhp)：全球权威区块链数据平台！\n\n🌍 2017年创立，2024年全牌照合规，收录2万+优质项目，14000+加密货币，400万+用户，20种语言，17独立站！\n\n📊 SCI排名让交易所排行更公平！加入我们，探索区块链的未来！\n\n#非小号 让您用最短的时间，获取到最新最前沿的新闻媒体信息 https://t.co/xgEIeMfPHn",
@@ -36,20 +34,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GqDIfhTasAA1xKA.jpg",
     "read_time": "2025-05-04 10:25:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Need administrator rights in the channel chat",
-      "timestamp": "2025-05-04T12:11:46",
-      "notification_sent": false
+      "success": true,
+      "message_id": 28,
+      "timestamp": "2025-05-04T12:40:49"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 109728,
       "size_mb": 0.1,
-      "timestamp": "2025-05-04T12:11:46",
+      "timestamp": "2025-05-04T12:40:48",
       "download_attempts": 0
     },
     "full_text": "五四青年节 | 非小号与青春共振，新闻点燃未来！\n\n在五四青年节这个充满激情的日子里，非小号新闻媒体与青年同行，传承五四精神，点燃信息之光！\n\n我们用笔尖记录时代脉动，用镜头捕捉青春风采，助力每一位青年勇立潮头，追逐梦想。\n\n#非小号，汇聚青年力量，书写无限可能！\n\n#五四青年节 #非小号 https://t.co/hoszWUnYZC",
