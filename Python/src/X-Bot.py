@@ -451,8 +451,8 @@ def main():
     elif len(args) == 0:
         current_date = datetime.now()
 
-        logger.info("🤖 自动模式：处理最近一周数据")
-        for day_offset in reversed(range(8)):  # 包含今天共8天
+        logger.info("🤖 自动模式：处理最近一天数据")
+        for day_offset in reversed(range(1)):  # 包含今天共1天
             target_date = current_date - timedelta(days=day_offset)
 
             # 输入文件路径（按数据日期）
