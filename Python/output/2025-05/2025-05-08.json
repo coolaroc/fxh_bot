@@ -76,5 +76,31 @@
     },
     "full_text": "🚨 非小号新闻：#TRON 网络实现 99.7% 的区块效率，验证者更新率为 68%。 https://t.co/1KqSHfMZwo",
     "publish_time": "2025-05-08T16:53:58"
+  },
+  {
+    "file_name": "GqasQHGWMAAuoIj.jpg",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号华语官方"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GqasQHGWMAAuoIj.jpg",
+    "read_time": "2025-05-08 17:36:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 87,
+      "timestamp": "2025-05-08T17:36:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12474,
+      "size_mb": 0.01,
+      "timestamp": "2025-05-08T17:36:40",
+      "download_attempts": 0
+    },
+    "full_text": "🚨以太坊ICO鲸鱼抛售5200枚ETH，价值954万美元\n\n一位早期以太坊 #ICO 参与者近日出售5200枚 #ETH，价值约954万美元。自4月17日起，该鲸鱼已累计抛售21,700枚ETH，总值3890万美元，平均价格1792美元/枚。\n\n目前其仍持有8300枚 #ETH（约1528万美元），或预示进一步抛售压力。 https://t.co/0G4IKdXVOF",
+    "publish_time": "2025-05-08T17:33:34"
   }
 ]
