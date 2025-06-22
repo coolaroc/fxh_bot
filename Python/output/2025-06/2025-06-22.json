@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (273MB > 50MB)",
       "timestamp": "2025-06-22T23:35:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 286457422,
       "size_mb": 273.19,
-      "timestamp": "2025-06-22T23:35:20",
+      "timestamp": "2025-06-22T23:58:08",
       "download_attempts": 0
     },
     "full_text": "💥 Otalk生态蓝图全揭秘：广告、网红、十大应用如何引爆Web3下一轮浪潮？\n\n你是否想过，在Web3的世界里，你的每一次点击、每一次分享，不仅能带来乐趣，更能创造实实在在的价值？当流媒体不再只是消遣，而是成为你数字生活的一部分，并为你带来源源不断的收益，那会是怎样一番景象？ https://t.co/ZKJ8ptI3F9",
