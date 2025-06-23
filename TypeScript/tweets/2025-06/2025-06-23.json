@@ -62,5 +62,19 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1937089635232166183",
     "fullText": "Space入口：\nhttps://t.co/qSGpbYDooP",
     "publishTime": "2025-06-23T18:05:33"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/spaces/1lDxLzoPeEYGm"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1937131150549672195",
+    "fullText": "https://t.co/qSGpbYDooP",
+    "publishTime": "2025-06-23T20:50:31"
   }
 ]
