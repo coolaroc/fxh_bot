@@ -56,5 +56,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1938933062471163924",
     "fullText": "📍 直播入口：https://t.co/mb61khQSDn",
     "publishTime": "2025-06-28T20:10:40"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuijOI0XkAAR-DG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1938979557522158056",
+    "fullText": "🎙 TalkingWeb3 x VEX 专场直播预告\n\n📈 VEX生态持续跃升，VTC价值再创新高，链上红利全球共创共享\n⏰ 时间： 2025年06月30日 周一 21:00 (UTC+8)\n\n🌟近期，VEX @Infosaludpty 生态正迎来价值与活力的全面爆发！其核心代币VTC月涨幅已达40%，并持续攀升，屡创新高 https://t.co/UI7Nrkk4GE",
+    "publishTime": "2025-06-28T23:15:25"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1OdJrDqznAyKX"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1938979561599049936",
+    "fullText": "📍 直播入口：https://t.co/mb61khQSDn",
+    "publishTime": "2025-06-28T23:15:26"
   }
 ]
