@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (243MB > 50MB)",
       "timestamp": "2025-06-29T23:58:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 255283819,
       "size_mb": 243.46,
-      "timestamp": "2025-06-29T23:58:28",
+      "timestamp": "2025-06-30T00:43:12",
       "download_attempts": 0
     },
     "full_text": "💡 Otalk的“终局之战”：从400万用户到全球流动性，价值兑现之路全揭秘！\n\n当你还在为Kaito的积分、币安广场的流量争得头破血流时，一个更根本的问题浮出水面：这些激励，如何才能变成我们口袋里真实、可流动的价值？当一个项目积累了数百万用户之后，它将如何开启“价值兑现”的下一篇章？ https://t.co/uSjbjBNfzW",
