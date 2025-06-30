@@ -154,5 +154,31 @@
     },
     "full_text": "https://t.co/ZvxTF9jnme",
     "publish_time": "2025-06-30T00:57:21"
+  },
+  {
+    "file_name": "GurP3iGbgAAohFT.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GurP3iGbgAAohFT.jpg",
+    "read_time": "2025-06-30 15:58:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 159,
+      "timestamp": "2025-06-30T15:58:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176782,
+      "size_mb": 0.17,
+      "timestamp": "2025-06-30T15:58:12",
+      "download_attempts": 0
+    },
+    "full_text": "🎙 TalkingWeb3 第393期 Space预告\n\n📊 每周行情观察 | 本周交易策略深度解析  \n📅 2025年06月30日 (周一) 19:30 (UTC+8) https://t.co/npyuc3GB6e",
+    "publish_time": "2025-06-30T15:45:57"
   }
 ]
