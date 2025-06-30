@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "7wyJGnL-WotFufDY.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1939722890288709632/vid/avc1/1280x720/7wyJGnL-WotFufDY.mp4?tag=21",
+    "read_time": "2025-07-01 00:45:47",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (211MB > 50MB)",
+      "timestamp": "2025-07-01T00:46:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 221701393,
+      "size_mb": 211.43,
+      "timestamp": "2025-07-01T00:46:11",
+      "download_attempts": 0
+    },
+    "full_text": "📈VEX圆桌激辩：RWA是“定心丸”，GameFi是“火箭”？一文读懂价值飞轮的秘密\n\n在Web3的世界里，我们每天都被海量的信息和暴富神话包围，但内心深处，或许都藏着一个共同的焦虑：如何才能找到那些真正有价值、能穿越牛熊的“实力派”项目？为了拨开迷雾，我们特别举办了一场深度AMA，邀请到了VEX https://t.co/PVGs2yRNNT",
+    "publish_time": "2025-07-01T00:36:24"
+  }
+]
