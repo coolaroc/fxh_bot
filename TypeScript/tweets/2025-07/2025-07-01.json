@@ -44,5 +44,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1939757908134428811",
     "fullText": "https://t.co/IciA7kGNMA",
     "publishTime": "2025-07-01T02:48:18"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuxAMckWEAA6W8w.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1939996238361108525",
+    "fullText": "🎙 TalkingWeb3 第395期 Space预告\n\n🌟 #撸毛致富 - 聊聊最近热门的撸毛项目\n📅 2025年07月01日 (周二) 21:00 (UTC+8)  \n\n🚀  嘴撸模式主导Web3新项目启动 https://t.co/09oM1Rnnln",
+    "publishTime": "2025-07-01T18:35:21"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/spaces/1RDxlzrkgejGL"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1939996241603314126",
+    "fullText": "Space入口：\nhttps://t.co/837DJkk3B8",
+    "publishTime": "2025-07-01T18:35:22"
   }
 ]
