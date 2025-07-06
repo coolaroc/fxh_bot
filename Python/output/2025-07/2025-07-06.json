@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (259MB > 50MB)",
       "timestamp": "2025-07-06T23:58:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 272180771,
       "size_mb": 259.57,
-      "timestamp": "2025-07-06T23:58:53",
+      "timestamp": "2025-07-07T00:43:30",
       "download_attempts": 0
     },
     "full_text": "🤔牛市前夜，这家5年老牌交易所为何突然高调发力华语市场？\n市场风云变幻，一边是机会涌现，一边是风险暗藏。对于每个Web3用户来说，选择一个安全、可靠且有潜力的交易平台，无疑是穿越周期的头等大事。 https://t.co/hwX6HZmmfm",
