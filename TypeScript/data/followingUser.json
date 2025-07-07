@@ -112,6 +112,19 @@
               ]
             }
           ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/RwaArtInc",
+              "expanded_url": "https://t.me/RwaArtInc",
+              "url": "https://t.co/VC8lGaYV4n",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1889983607814713344/1748531015",
