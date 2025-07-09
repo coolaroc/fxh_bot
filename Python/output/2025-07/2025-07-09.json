@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "file_name": "GvZrkUba4AABgwQ.png",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号极速版"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvZrkUba4AABgwQ.png",
+    "read_time": "2025-07-09 16:45:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 193,
+      "timestamp": "2025-07-09T16:45:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137459,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-09T16:45:37",
+      "download_attempts": 0
+    },
+    "full_text": "📰 #FeiXiaoHao  新闻：\n📱【Solana 手机最新进展】\n\nSolana Mobile 宣布：第二代智能手机 Seeker 将于 8 月 4 日起正式发货📦\n\n🔍 目前用户可登录官网确认或修改收货地址\n\n💴 部分地区需缴纳进口税费，请提前了解相关政策 https://t.co/Y8f26QwOH8",
+    "publish_time": "2025-07-09T16:12:23"
+  }
+]
