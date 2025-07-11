@@ -102,5 +102,85 @@
     },
     "full_text": "🎉 非小号@FeiXiaoHaoZH与 HashWhale @HashWhale 强强联手！\n\nHashWhale，全球领先的比特币云挖矿平台，自有稳定、安全的矿场与矿池，推出比特币、USDT固本理财产品，融合挖矿与理财，打造一站式资产管理新体验！旨在为投资者提供“挖矿-理财”相结合的一站式的资产管理服务。🚀\n\n#Bitcoin #非小号 https://t.co/5BX3maqSTY",
     "publish_time": "2025-07-11T14:02:59"
+  },
+  {
+    "file_name": "hS4cwKNDstw2FDpC.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1943602593688637440/vid/avc1/1280x720/hS4cwKNDstw2FDpC.mp4?tag=14",
+    "read_time": "2025-07-11 17:39:50",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (271MB > 50MB)",
+      "timestamp": "2025-07-11T17:40:23",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 284358103,
+      "size_mb": 271.19,
+      "timestamp": "2025-07-11T17:40:23",
+      "download_attempts": 0
+    },
+    "full_text": "💡告别炒作，拥抱价值：Web3 还能这样玩，你意想不到的“链上艺术品”新世界！\n\n最近 Web3 圈子是不是让你有点迷茫？Meme 币热潮来去匆匆，财富效应像烟花一样绚烂又短暂，留下许多一地鸡毛。大家都在问，除了炒作，Web3 https://t.co/3eKJ1ots2D",
+    "publish_time": "2025-07-11T17:35:37"
+  },
+  {
+    "file_name": "GvkRS2iWIAAwooC.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvkRS2iWIAAwooC.jpg",
+    "read_time": "2025-07-11 17:39:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 205,
+      "timestamp": "2025-07-11T17:40:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174010,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-11T17:40:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/auMuxZyWmM",
+    "publish_time": "2025-07-11T17:35:38"
+  },
+  {
+    "file_name": "GvkRS1_WYAAOzzv.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvkRS1_WYAAOzzv.jpg",
+    "read_time": "2025-07-11 17:39:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 206,
+      "timestamp": "2025-07-11T17:40:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177044,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-11T17:40:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/auMuxZyWmM",
+    "publish_time": "2025-07-11T17:35:38"
   }
 ]
