@@ -118,14 +118,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (271MB > 50MB)",
       "timestamp": "2025-07-11T17:40:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 284358103,
       "size_mb": 271.19,
-      "timestamp": "2025-07-11T17:40:23",
+      "timestamp": "2025-07-11T17:58:23",
       "download_attempts": 0
     },
     "full_text": "💡告别炒作，拥抱价值：Web3 还能这样玩，你意想不到的“链上艺术品”新世界！\n\n最近 Web3 圈子是不是让你有点迷茫？Meme 币热潮来去匆匆，财富效应像烟花一样绚烂又短暂，留下许多一地鸡毛。大家都在问，除了炒作，Web3 https://t.co/3eKJ1ots2D",
