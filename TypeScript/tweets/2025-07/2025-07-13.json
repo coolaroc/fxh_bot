@@ -27,5 +27,41 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1944073463880462353",
     "fullText": "https://t.co/84eIcEe1Ze",
     "publishTime": "2025-07-13T00:36:47"
+  },
+  {
+    "user": {
+      "screenName": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvsePazbsAA258T.jpg",
+      "https://pbs.twimg.com/media/GvsePdJbMAAUMp3.jpg",
+      "https://pbs.twimg.com/media/GvsePapbsAI2KCZ.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1944180911442210817/pu/vid/avc1/720x720/BKMOOEPAP6pSYKAI.mp4?tag=12"
+    ],
+    "expandUrls": [
+      "http://RWA.ART"
+    ],
+    "tweetUrl": "https://x.com/RwaArtInc/status/1944181170817900851",
+    "fullText": "🎉 https://t.co/AQZsgDaWA6 Design Contest — Winners Announcement🎉\n\nThank you all for your amazing submissions and support!\nRewards will be sent within 24h. Here’s the final list:\n\n🏆 1st Prize:\n0x8C84D8d7537e31F54A16F1A1DD96eCcAd35932B8\n\n🥈 2nd Prize: https://t.co/5GobdgqmFV",
+    "publishTime": "2025-07-13T07:44:46"
+  },
+  {
+    "user": {
+      "screenName": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvsemqhWIAAlYoy.jpg",
+      "https://pbs.twimg.com/media/GvsemsqbIAAaO8H.jpg",
+      "https://pbs.twimg.com/media/GvsemuAbcAAL2I5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RwaArtInc/status/1944181318860091782",
+    "fullText": "https://t.co/GSDZy05fFK",
+    "publishTime": "2025-07-13T07:45:22"
   }
 ]
