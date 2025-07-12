@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (211MB > 50MB)",
       "timestamp": "2025-07-13T00:43:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 222049095,
       "size_mb": 211.76,
-      "timestamp": "2025-07-13T00:43:10",
+      "timestamp": "2025-07-13T00:58:26",
       "download_attempts": 0
     },
     "full_text": "💡Web3风向变了？普通人也能当“Web3网红”？一场直播揭秘市场新机遇！\n\n你是不是也对Web3、区块链这些概念充满好奇，却又觉得它们太高深莫测，离自己遥不可及？面对市场波动，想参与却又担心“小白”入场容易“交学费”？\n\n今晚的非小号LIVE100第三期，特邀最近火爆圈内的创新交易所 MCN Global @MCNEx_web3 https://t.co/SK87rM8tik",
