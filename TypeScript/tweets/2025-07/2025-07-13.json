@@ -63,5 +63,45 @@
     "tweetUrl": "https://x.com/RwaArtInc/status/1944181318860091782",
     "fullText": "https://t.co/GSDZy05fFK",
     "publishTime": "2025-07-13T07:45:22"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1944278946415358256",
+    "fullText": "🎬 WALLX 直播将延期举行，具体时间待定。感谢理解，敬请留意后续公告。",
+    "publishTime": "2025-07-13T14:13:18"
+  },
+  {
+    "user": {
+      "screenName": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "http://RWA.ART"
+    ],
+    "tweetUrl": "https://x.com/RwaArtInc/status/1944283623290524034",
+    "fullText": "🎉 All rewards from the https://t.co/AQZsgDaoKy Design Contest have been distributed!\n\nPlease check your wallets ✅\n\nFor early bird participants — 50 exclusive merchandise items are also in production.\n\nThank you for your continued support!\n\n#RwaART #Web3 #BNBChain #NFT",
+    "publishTime": "2025-07-13T14:31:53"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvt9mDoXUAEZ8aD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1944285846838161724",
+    "fullText": "【#非小号Live100】第四期直播预告！🚀\n\n本期我们将深度对话 Bridge3 (@Bridge_web_3)，全球首个融合创业孵化与流量分发的 Web3 去中心化平台！一同揭秘它如何构建“社交+资产+治理”的生态闭环，让“行为即收益”成为现实！\n\n⏰ 时间:2025年07月14日(周一) 20:00(UTC+8)\n🎁 本期空投: 非小号联名款labubu https://t.co/6XNiSX0beF",
+    "publishTime": "2025-07-13T14:40:43"
   }
 ]
