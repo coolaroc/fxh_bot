@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (289MB > 50MB)",
       "timestamp": "2025-07-15T15:40:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 303922621,
       "size_mb": 289.84,
-      "timestamp": "2025-07-15T15:40:13",
+      "timestamp": "2025-07-15T15:58:42",
       "download_attempts": 0
     },
     "full_text": "📈 钱包、社交、赚钱三合一？我们和 Bridge3 深聊之后，发现了 Web3 下个流量入口的秘密！\n\n身在 Web3，你是不是也常有这样的烦恼：新项目层出不穷，生怕一脚踩空；好不容易领个空投，又担心钱包被盗；想找个靠谱社群交流，却发现信息杂乱、广告满天飞？\n\n这些几乎是每个 Web3 https://t.co/RWbhorampu",
