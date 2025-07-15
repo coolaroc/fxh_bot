@@ -43,5 +43,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1945018742594834706",
     "fullText": "https://t.co/S6Q3fxkJaz",
     "publishTime": "2025-07-15T15:12:59"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv4kjarXEAA9x1u.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1945041997904974173",
+    "fullText": "【#非小号Live100】第六期直播预告！🚀\n\n🎁瓜分5000U等值 $BOBAI ！本期我们将深度对话 ODINFUN • BOBAI (@BOBAI_CTO)，一个背靠 ODINFUN (@Odin_GodOfRunes) 超强背景，融合 AI Agent 与 Meme 属性的潜力新星！特邀社区核心人物，共同揭秘 BOBAI 如何用 AI 重塑比特币的未来！\n\n⏰ 时间: https://t.co/R0wy7yjW4p",
+    "publishTime": "2025-07-15T16:45:24"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1OwGWXzYNvZJQ"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1945042001704919046",
+    "fullText": "🎥 X 直播入口：https://t.co/J2p0uxzhh7",
+    "publishTime": "2025-07-15T16:45:24"
   }
 ]
