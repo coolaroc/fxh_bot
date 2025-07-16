@@ -24,5 +24,85 @@
     },
     "full_text": "📢 It’s official!\nOur platform token is named $ART — the world’s first truly on-chain Art Token.\n\n🎊 A full ecosystem launch is coming soon.\n\n🚀Getting listed on CEX will be our first major milestone!\n#RWA #BNB https://t.co/02ORT85DqB",
     "publish_time": "2025-07-16T12:48:31"
+  },
+  {
+    "file_name": "_fQQpYY4E7kiywPc.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1945349713508884481/vid/avc1/1280x720/_fQQpYY4E7kiywPc.mp4?tag=14",
+    "read_time": "2025-07-16 13:45:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (256MB > 50MB)",
+      "timestamp": "2025-07-16T13:46:14",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 269403682,
+      "size_mb": 256.92,
+      "timestamp": "2025-07-16T13:46:14",
+      "download_attempts": 0
+    },
+    "full_text": "💡熬过三年不死，才是好项目？揭秘Web3创业生存法则！\n\n“币圈一天，人间十年”，你是不是也曾被这惊人的造富神话吸引，却又在市场的剧烈波动中感到迷茫和焦虑？看着一个个“天王级项目”迅速崛起又悄然陨落，我们不禁要问：到底什么样的项目才能穿越牛熊，真正活下来，甚至活得更好？ https://t.co/53qAGsaKWy",
+    "publish_time": "2025-07-16T13:28:31"
+  },
+  {
+    "file_name": "Gv9J5i5asAAYnsG.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9J5i5asAAYnsG.jpg",
+    "read_time": "2025-07-16 13:45:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 248,
+      "timestamp": "2025-07-16T13:46:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194914,
+      "size_mb": 0.19,
+      "timestamp": "2025-07-16T13:46:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4ATzI9NzuS",
+    "publish_time": "2025-07-16T13:28:33"
+  },
+  {
+    "file_name": "Gv9J5j4XEAAgNsM.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9J5j4XEAAgNsM.jpg",
+    "read_time": "2025-07-16 13:45:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 249,
+      "timestamp": "2025-07-16T13:46:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163241,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-16T13:46:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4ATzI9NzuS",
+    "publish_time": "2025-07-16T13:28:33"
   }
 ]
