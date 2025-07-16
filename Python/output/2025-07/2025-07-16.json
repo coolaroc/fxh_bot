@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (256MB > 50MB)",
       "timestamp": "2025-07-16T13:46:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 269403682,
       "size_mb": 256.92,
-      "timestamp": "2025-07-16T13:46:14",
+      "timestamp": "2025-07-16T13:59:01",
       "download_attempts": 0
     },
     "full_text": "💡熬过三年不死，才是好项目？揭秘Web3创业生存法则！\n\n“币圈一天，人间十年”，你是不是也曾被这惊人的造富神话吸引，却又在市场的剧烈波动中感到迷茫和焦虑？看着一个个“天王级项目”迅速崛起又悄然陨落，我们不禁要问：到底什么样的项目才能穿越牛熊，真正活下来，甚至活得更好？ https://t.co/53qAGsaKWy",
