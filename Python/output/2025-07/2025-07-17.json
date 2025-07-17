@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (253MB > 50MB)",
       "timestamp": "2025-07-17T17:13:34",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 266061962,
       "size_mb": 253.74,
-      "timestamp": "2025-07-17T17:13:34",
+      "timestamp": "2025-07-17T17:42:24",
       "download_attempts": 0
     },
     "full_text": "比特币太贵买不起？ODINFUN带来普通人“赚”大饼的新玩法！📈\n\n看着比特币价格一路狂飙，你是不是也曾无数次感慨“当初要是……”？可现实是，如今直接入场的门槛越来越高，普通人想分一杯羹，难道真的没机会了吗？\n\n别急，机会或许藏在你看不到的地方。最近，在由非小号联合点滴财经等伙伴主办的 https://t.co/GmUehniJim",
