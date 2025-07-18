@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (255MB > 50MB)",
       "timestamp": "2025-07-19T00:48:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 267969437,
       "size_mb": 255.56,
-      "timestamp": "2025-07-19T00:48:32",
+      "timestamp": "2025-07-19T01:11:44",
       "download_attempts": 0
     },
     "full_text": "🚀不止稳定，更能生息！USDD 如何在监管时代，开辟稳定币的『智能收益』新赛道？\n\n在 Web3 的世界里，我们的资产除了寻求稳定，还能不能更“聪明”一点，实现安全、透明的自我增值？当大部分稳定币还停留在单纯的“价值铆钉”时，一场关于“智能收益稳定币”的深度探索正在悄然上演。\n\n在昨日的 https://t.co/vlszmBPTzT",
