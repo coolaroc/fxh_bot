@@ -1,0 +1,134 @@
+[
+  {
+    "file_name": "t1GaXjHoTWMHbI4h.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946245017800241152/vid/avc1/1280x720/t1GaXjHoTWMHbI4h.mp4?tag=21",
+    "read_time": "2025-07-19 00:48:01",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (255MB > 50MB)",
+      "timestamp": "2025-07-19T00:48:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 267969437,
+      "size_mb": 255.56,
+      "timestamp": "2025-07-19T00:48:32",
+      "download_attempts": 0
+    },
+    "full_text": "🚀不止稳定，更能生息！USDD 如何在监管时代，开辟稳定币的『智能收益』新赛道？\n\n在 Web3 的世界里，我们的资产除了寻求稳定，还能不能更“聪明”一点，实现安全、透明的自我增值？当大部分稳定币还停留在单纯的“价值铆钉”时，一场关于“智能收益稳定币”的深度探索正在悄然上演。\n\n在昨日的 https://t.co/vlszmBPTzT",
+    "publish_time": "2025-07-19T00:37:34"
+  },
+  {
+    "file_name": "GwJ2HJ1XEAAImcu.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwJ2HJ1XEAAImcu.jpg",
+    "read_time": "2025-07-19 00:48:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 260,
+      "timestamp": "2025-07-19T00:48:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177042,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-19T00:48:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WGWI0rj8nK",
+    "publish_time": "2025-07-19T00:37:35"
+  },
+  {
+    "file_name": "GwJ2HJwWIAgvgWv.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwJ2HJwWIAgvgWv.jpg",
+    "read_time": "2025-07-19 00:48:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 261,
+      "timestamp": "2025-07-19T00:48:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174190,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-19T00:48:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WGWI0rj8nK",
+    "publish_time": "2025-07-19T00:37:35"
+  },
+  {
+    "file_name": "GwJ2HJsWIAMgMx0.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwJ2HJsWIAMgMx0.jpg",
+    "read_time": "2025-07-19 00:48:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 262,
+      "timestamp": "2025-07-19T00:48:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 178375,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-19T00:48:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WGWI0rj8nK",
+    "publish_time": "2025-07-19T00:37:35"
+  },
+  {
+    "file_name": "GwJ2HJrWIAUq0Ad.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwJ2HJrWIAUq0Ad.jpg",
+    "read_time": "2025-07-19 00:48:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 263,
+      "timestamp": "2025-07-19T00:48:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181085,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-19T00:48:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WGWI0rj8nK",
+    "publish_time": "2025-07-19T00:37:35"
+  }
+]
