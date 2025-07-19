@@ -70,5 +70,33 @@
     "tweetUrl": "https://x.com/FeiXiaoHaoZH/status/1946477504883237000",
     "fullText": "🌟请锁定以上任一TalkingWeb3频道，或关注我们TG获取全部直播链接！",
     "publishTime": "2025-07-19T15:49:35"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwNHIL9aUAA4KUB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1946484195460792637",
+    "fullText": "【#非小号Live100】第九期直播预告！🚀\n\n🎁$2300U+限量版Labubu空投来袭！项目增长难，生命周期管理繁琐？本期我们深度对话 AIDR https://t.co/kmbDxLJlTe",
+    "publishTime": "2025-07-19T16:16:10"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1BRKjmZXkYoxw"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1946484198753370371",
+    "fullText": "🎥 X 直播入口：https://t.co/3uX09Fi3CY",
+    "publishTime": "2025-07-19T16:16:11"
   }
 ]
