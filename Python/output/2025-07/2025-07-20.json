@@ -144,14 +144,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (230MB > 50MB)",
       "timestamp": "2025-07-20T17:00:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 241917326,
       "size_mb": 230.71,
-      "timestamp": "2025-07-20T17:00:16",
+      "timestamp": "2025-07-20T17:37:24",
       "download_attempts": 0
     },
     "full_text": "📈VEX三位高管亲述：交易所混战，他们凭什么半年内火遍全球？\n\n身处 Web3 世界，你是否也时常感到迷茫？一边是“牛市要来了”的呼声，一边是层出不穷的新项目、新概念，让人眼花缭乱。到底该把时间和子弹投向何方？一个项目凭什么能脱颖而出？\n\n为了拨开迷雾，本期TalkingWeb3 的特别栏目 #非小号LIVE100 https://t.co/spSdBWhYUQ",
