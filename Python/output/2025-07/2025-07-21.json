@@ -170,14 +170,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (219MB > 50MB)",
       "timestamp": "2025-07-21T14:51:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 230093468,
       "size_mb": 219.43,
-      "timestamp": "2025-07-21T14:51:56",
+      "timestamp": "2025-07-21T15:44:36",
       "download_attempts": 0
     },
     "full_text": "💡一键发币、公平发射？Web3 创业原来可以这么简单！\n\n想在 Web3 搞点事情，却被复杂的发币流程、高昂的获客成本劝退？看到热门项目空投不断，自己却只能当个“气氛组”？如果你有过这些困惑，那么昨日这期 #非小号Live100，或许能给你带来全新的启发。 https://t.co/FjX0Tcq67n",
