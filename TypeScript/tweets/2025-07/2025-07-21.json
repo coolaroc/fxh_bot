@@ -101,5 +101,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1947181367907008741",
     "fullText": "https://t.co/vPGtvlyBt9",
     "publishTime": "2025-07-21T14:26:29"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwXnG2wW8AARrtg.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1947217468084404395",
+    "fullText": "【#非小号Live100】第十期直播预告！🚀\n\n🎁$GBTC空投 + 限量版Labubu来袭！AI+NFT，是内容创作的未来，还是资本炒作的泡沫？本期我们聚焦行业最具争议的话题，邀请到SPF Meta (@SPFMETAWEB3) 生态CMO Ava与资深KOL Te One，共同拆解AI+NFT赛道的真实机遇与潜在陷阱！\n\n⏰ 时间: 7月22日 (周二) 20:00 https://t.co/pGDdABEu6n",
+    "publishTime": "2025-07-21T16:49:56"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1nAJEgaOdAoKL"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1947217472110887379",
+    "fullText": "🎥 X 直播入口：https://t.co/gyN3XygQKc",
+    "publishTime": "2025-07-21T16:49:57"
   }
 ]
