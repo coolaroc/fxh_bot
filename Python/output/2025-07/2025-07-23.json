@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (231MB > 50MB)",
       "timestamp": "2025-07-23T14:51:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 243096103,
       "size_mb": 231.83,
-      "timestamp": "2025-07-23T14:51:59",
+      "timestamp": "2025-07-23T15:41:08",
       "download_attempts": 0
     },
     "full_text": "📈AI革命已至，Web3圈内人揭秘：普通人如何抓住这波红利？\n你是不是也觉得，AI虽然火，但总感觉和自己的生活有点距离？除了聊天写稿，它到底还能做什么？而Web3和区块链，听起来更是云里雾里，门槛高得让人望而却步。如果把这两者结合起来，又会碰撞出怎样的火花？\n\n为了拨开迷雾，本期 #非小号Live100 https://t.co/Qa8I3vLM0H",
