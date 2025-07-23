@@ -131,5 +131,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1947979868509233165",
     "fullText": "🎥 X 直播入口：https://t.co/Ip3rcvdUi4",
     "publishTime": "2025-07-23T19:19:27"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwjLh_3aEAA3F_V.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1948030711128334515",
+    "fullText": "【#非小号Live100】第13期直播预告！🚀\n\n当老牌交易所 JuCoin 倾力打造的去中心化银行 JBank 问世，一个“人人皆可拥有自己银行”的时代是否已经到来？本期我们深度对话 JBank @Jucoin_Jbank，一个基于升级版 Olympus DAO 模型，致力于重塑链上金融秩序的 Web3 银行协议！\n\n⏰ 时间: 2025年07月26日 https://t.co/Stc2j3xcQa",
+    "publishTime": "2025-07-23T22:41:28"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1LyGBWqBBLzJN"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1948030715159007499",
+    "fullText": "🎥 X 直播入口：https://t.co/vyyNBaACTf",
+    "publishTime": "2025-07-23T22:41:29"
   }
 ]
