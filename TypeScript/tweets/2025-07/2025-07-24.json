@@ -137,5 +137,35 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1948315906163331127",
     "fullText": "🎥 X 直播入口：https://t.co/5DR7fvmzJM",
     "publishTime": "2025-07-24T17:34:44"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948386700465721345/vid/avc1/1280x720/yEYGRtac4rJJzzpL.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1948397902772277501",
+    "fullText": "📈 L1公链内卷加剧，Xone凭什么杀出重围？答案可能让你眼前一亮 https://t.co/OBvVxGT1kA",
+    "publishTime": "2025-07-24T23:00:34"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwoZi60bUAAu2Lz.jpg",
+      "https://pbs.twimg.com/media/GwoZi64aIAEHOg9.jpg",
+      "https://pbs.twimg.com/media/GwoZi64a8AA-AUv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1948397908501602379",
+    "fullText": "https://t.co/O7tg05M4Tp",
+    "publishTime": "2025-07-24T23:00:35"
   }
 ]

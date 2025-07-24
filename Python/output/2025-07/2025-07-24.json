@@ -260,5 +260,111 @@
     },
     "full_text": "🎥 X 直播入口：https://t.co/5DR7fvmzJM",
     "publish_time": "2025-07-24T17:34:44"
+  },
+  {
+    "file_name": "yEYGRtac4rJJzzpL.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948386700465721345/vid/avc1/1280x720/yEYGRtac4rJJzzpL.mp4?tag=21",
+    "read_time": "2025-07-24 23:39:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (252MB > 50MB)",
+      "timestamp": "2025-07-24T23:39:58",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 265033035,
+      "size_mb": 252.76,
+      "timestamp": "2025-07-24T23:39:58",
+      "download_attempts": 0
+    },
+    "full_text": "📈 L1公链内卷加剧，Xone凭什么杀出重围？答案可能让你眼前一亮 https://t.co/OBvVxGT1kA",
+    "publish_time": "2025-07-24T23:00:34"
+  },
+  {
+    "file_name": "GwoZi60bUAAu2Lz.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoZi60bUAAu2Lz.jpg",
+    "read_time": "2025-07-24 23:39:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 316,
+      "timestamp": "2025-07-24T23:40:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175808,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-24T23:39:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O7tg05M4Tp",
+    "publish_time": "2025-07-24T23:00:35"
+  },
+  {
+    "file_name": "GwoZi64aIAEHOg9.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoZi64aIAEHOg9.jpg",
+    "read_time": "2025-07-24 23:39:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 317,
+      "timestamp": "2025-07-24T23:40:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176382,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-24T23:40:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O7tg05M4Tp",
+    "publish_time": "2025-07-24T23:00:35"
+  },
+  {
+    "file_name": "GwoZi64a8AA-AUv.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoZi64a8AA-AUv.jpg",
+    "read_time": "2025-07-24 23:39:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 318,
+      "timestamp": "2025-07-24T23:40:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179395,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-24T23:40:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O7tg05M4Tp",
+    "publish_time": "2025-07-24T23:00:35"
   }
 ]
