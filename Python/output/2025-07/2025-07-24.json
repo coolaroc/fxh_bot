@@ -76,5 +76,137 @@
     },
     "full_text": "🎁 The first batch of 300 Early Bird Exclusive NFT Passes is about to be distributed!\n\nThis is more than just an NFT — it’s your gateway into the core circle of Cultural Heritage RWA 🔥\n\n By holding it, you’ll unlock:\n\n✅ A globally limited “Antique VIP” identity badge, verified https://t.co/TivinROFRm",
     "publish_time": "2025-07-24T11:49:43"
+  },
+  {
+    "file_name": "pR9onCTuvRgzm80e.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948072514548375552/vid/avc1/1280x720/pR9onCTuvRgzm80e.mp4?tag=21",
+    "read_time": "2025-07-24 14:51:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (330MB > 50MB)",
+      "timestamp": "2025-07-24T14:52:05",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 346545097,
+      "size_mb": 330.49,
+      "timestamp": "2025-07-24T14:52:05",
+      "download_attempts": 0
+    },
+    "full_text": "💡AI替你炒币，还承诺“保本”？我们和 Match 聊了聊99%的人如何告别韭菜命运 \n\n“一买就跌，一卖就涨”，这句魔咒是不是也曾让你深夜捶腿？在信息爆炸又真假难辨的 Web3 世界，普通人想赚点钱，怎么就这么难？\n\n带着这个灵魂拷问，我们最近邀请了老朋友 Match @Match_SocialFi  的 https://t.co/I6Jkk24j0l",
+    "publish_time": "2025-07-24T14:01:03"
+  },
+  {
+    "file_name": "GwmeGAKagAAZgLy.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwmeGAKagAAZgLy.jpg",
+    "read_time": "2025-07-24 14:51:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 310,
+      "timestamp": "2025-07-24T14:52:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 164705,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-24T14:52:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vBff5hSaod",
+    "publish_time": "2025-07-24T14:01:11"
+  },
+  {
+    "file_name": "GwmeGAGbAAAIoP-.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwmeGAGbAAAIoP-.jpg",
+    "read_time": "2025-07-24 14:51:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 311,
+      "timestamp": "2025-07-24T14:52:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167708,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-24T14:52:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vBff5hSaod",
+    "publish_time": "2025-07-24T14:01:11"
+  },
+  {
+    "file_name": "GwmeGAPbIAAOk9n.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwmeGAPbIAAOk9n.jpg",
+    "read_time": "2025-07-24 14:51:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 312,
+      "timestamp": "2025-07-24T14:52:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162068,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-24T14:52:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vBff5hSaod",
+    "publish_time": "2025-07-24T14:01:11"
+  },
+  {
+    "file_name": "GwmeGAVawAANeQQ.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwmeGAVawAANeQQ.jpg",
+    "read_time": "2025-07-24 14:51:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 313,
+      "timestamp": "2025-07-24T14:52:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166581,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-24T14:52:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vBff5hSaod",
+    "publish_time": "2025-07-24T14:01:11"
   }
 ]
