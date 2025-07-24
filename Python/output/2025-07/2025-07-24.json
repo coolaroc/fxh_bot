@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (330MB > 50MB)",
       "timestamp": "2025-07-24T14:52:05",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 346545097,
       "size_mb": 330.49,
-      "timestamp": "2025-07-24T14:52:05",
+      "timestamp": "2025-07-24T15:41:06",
       "download_attempts": 0
     },
     "full_text": "💡AI替你炒币，还承诺“保本”？我们和 Match 聊了聊99%的人如何告别韭菜命运 \n\n“一买就跌，一卖就涨”，这句魔咒是不是也曾让你深夜捶腿？在信息爆炸又真假难辨的 Web3 世界，普通人想赚点钱，怎么就这么难？\n\n带着这个灵魂拷问，我们最近邀请了老朋友 Match @Match_SocialFi  的 https://t.co/I6Jkk24j0l",
