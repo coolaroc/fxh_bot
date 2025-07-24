@@ -276,14 +276,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (252MB > 50MB)",
       "timestamp": "2025-07-24T23:39:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 265033035,
       "size_mb": 252.76,
-      "timestamp": "2025-07-24T23:39:58",
+      "timestamp": "2025-07-24T23:59:18",
       "download_attempts": 0
     },
     "full_text": "📈 L1公链内卷加剧，Xone凭什么杀出重围？答案可能让你眼前一亮 https://t.co/OBvVxGT1kA",
