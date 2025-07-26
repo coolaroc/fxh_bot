@@ -130,5 +130,57 @@
     },
     "full_text": "https://t.co/4m4QKjt3D0",
     "publish_time": "2025-07-26T10:23:04"
+  },
+  {
+    "file_name": "Gwxk3ayakAAJ0Ok.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwxk3ayakAAJ0Ok.jpg",
+    "read_time": "2025-07-26 17:58:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 325,
+      "timestamp": "2025-07-26T17:58:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 257283,
+      "size_mb": 0.25,
+      "timestamp": "2025-07-26T17:58:19",
+      "download_attempts": 0
+    },
+    "full_text": "TalkingWeb3 &amp; Runesoul 百大KOL专场直播预告！🚀\n\nGameFi的“死亡螺旋”魔咒如何破解？当“社交”成为核心资产，游戏将迎来怎样的革命？本期我们独家对话GameFi 4.0与SocialGameFi的定义者——Runesoul (@runesoul_ARPG)！共同揭秘其7月29日香港“Web3领袖峰会”前的重磅信息！\n\n⏰ 时间: 2025年07月27日 https://t.co/UShArQm2DX",
+    "publish_time": "2025-07-26T17:51:23"
+  },
+  {
+    "file_name": "1vAxRDvQPXkGl",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1vAxRDvQPXkGl",
+    "read_time": "2025-07-26 17:58:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 326,
+      "timestamp": "2025-07-26T17:58:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-07-26T17:58:21",
+      "download_attempts": 0
+    },
+    "full_text": "🎥 X 直播入口：https://t.co/UjkOggfKpB",
+    "publish_time": "2025-07-26T17:51:24"
   }
 ]
