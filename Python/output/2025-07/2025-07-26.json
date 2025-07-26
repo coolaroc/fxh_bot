@@ -182,5 +182,85 @@
     },
     "full_text": "🎥 X 直播入口：https://t.co/UjkOggfKpB",
     "publish_time": "2025-07-26T17:51:24"
+  },
+  {
+    "file_name": "jssmtb9i76BNi30O.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949113997489573888/vid/avc1/1280x720/jssmtb9i76BNi30O.mp4?tag=21",
+    "read_time": "2025-07-26 22:58:10",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (216MB > 50MB)",
+      "timestamp": "2025-07-26T22:58:31",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 227113078,
+      "size_mb": 216.59,
+      "timestamp": "2025-07-26T22:58:31",
+      "download_attempts": 0
+    },
+    "full_text": "💳银行的饭碗，真要被 Web3 抢了？一张卡，让你的加密资产直接全球刷！\n\n你是否也曾有过这样的瞬间：看着钱包里不断增长的加密资产，心里美滋滋，但真想用它买杯咖啡时，却发现隔着千山万水，需要经历兑换、提现等一系列复杂操作？这种“看得见，摸不着”的财富，何时才能像银行存款一样方便？ https://t.co/3NP3O2CdEQ",
+    "publish_time": "2025-07-26T22:50:15"
+  },
+  {
+    "file_name": "GwyqY0UbwAAmsyU.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwyqY0UbwAAmsyU.jpg",
+    "read_time": "2025-07-26 22:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 327,
+      "timestamp": "2025-07-26T22:58:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180912,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-26T22:58:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xsc5KRmoXZ",
+    "publish_time": "2025-07-26T22:50:19"
+  },
+  {
+    "file_name": "GwyqY0sagAAno0x.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwyqY0sagAAno0x.jpg",
+    "read_time": "2025-07-26 22:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 328,
+      "timestamp": "2025-07-26T22:58:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 178639,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-26T22:58:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xsc5KRmoXZ",
+    "publish_time": "2025-07-26T22:50:19"
   }
 ]

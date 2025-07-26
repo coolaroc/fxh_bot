@@ -57,5 +57,34 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949044874420138337",
     "fullText": "🎥 X 直播入口：https://t.co/UjkOggfKpB",
     "publishTime": "2025-07-26T17:51:24"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949113997489573888/vid/avc1/1280x720/jssmtb9i76BNi30O.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949120084552913151",
+    "fullText": "💳银行的饭碗，真要被 Web3 抢了？一张卡，让你的加密资产直接全球刷！\n\n你是否也曾有过这样的瞬间：看着钱包里不断增长的加密资产，心里美滋滋，但真想用它买杯咖啡时，却发现隔着千山万水，需要经历兑换、提现等一系列复杂操作？这种“看得见，摸不着”的财富，何时才能像银行存款一样方便？ https://t.co/3NP3O2CdEQ",
+    "publishTime": "2025-07-26T22:50:15"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwyqY0UbwAAmsyU.jpg",
+      "https://pbs.twimg.com/media/GwyqY0sagAAno0x.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949120101372080444",
+    "fullText": "https://t.co/xsc5KRmoXZ",
+    "publishTime": "2025-07-26T22:50:19"
   }
 ]
