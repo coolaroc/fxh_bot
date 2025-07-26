@@ -1,0 +1,134 @@
+[
+  {
+    "file_name": "-hR6_tSMb6u60yDK.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948930703569420289/vid/avc1/1280x720/-hR6_tSMb6u60yDK.mp4?tag=21",
+    "read_time": "2025-07-26 10:27:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (238MB > 50MB)",
+      "timestamp": "2025-07-26T10:28:13",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 250104391,
+      "size_mb": 238.52,
+      "timestamp": "2025-07-26T10:28:13",
+      "download_attempts": 0
+    },
+    "full_text": "💡一杯“资产咖啡”，双份收益？CICADA Finance投资人揭秘Web3资管新玩法，普通人也能投顶级项目！\n\n想投资那些遥不可及的顶级项目却苦于没有门槛？想在稳健的资产收益之上，再添一份Web3独有的超额惊喜？这听起来或许有些“奢侈”，但在非小号LIVE100的最新一期直播中，创新资管平台CICADA Finance https://t.co/nwthTZhRIm",
+    "publish_time": "2025-07-26T10:23:03"
+  },
+  {
+    "file_name": "Gwv-Gz3bgAQCDr0.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwv-Gz3bgAQCDr0.jpg",
+    "read_time": "2025-07-26 10:27:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 321,
+      "timestamp": "2025-07-26T10:28:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169047,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-26T10:28:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4m4QKjt3D0",
+    "publish_time": "2025-07-26T10:23:04"
+  },
+  {
+    "file_name": "Gwv-Gz0bgAMqNL3.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwv-Gz0bgAMqNL3.jpg",
+    "read_time": "2025-07-26 10:27:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 322,
+      "timestamp": "2025-07-26T10:28:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167858,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-26T10:28:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4m4QKjt3D0",
+    "publish_time": "2025-07-26T10:23:04"
+  },
+  {
+    "file_name": "Gwv-GzzbgAMv1xe.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwv-GzzbgAMv1xe.jpg",
+    "read_time": "2025-07-26 10:27:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 323,
+      "timestamp": "2025-07-26T10:28:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168848,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-26T10:28:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4m4QKjt3D0",
+    "publish_time": "2025-07-26T10:23:04"
+  },
+  {
+    "file_name": "Gwv-GzrbgAEHOJ3.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwv-GzrbgAEHOJ3.jpg",
+    "read_time": "2025-07-26 10:27:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 324,
+      "timestamp": "2025-07-26T10:28:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167816,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-26T10:28:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4m4QKjt3D0",
+    "publish_time": "2025-07-26T10:23:04"
+  }
+]
