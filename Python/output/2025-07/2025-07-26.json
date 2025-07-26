@@ -198,14 +198,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (216MB > 50MB)",
       "timestamp": "2025-07-26T22:58:31",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 227113078,
       "size_mb": 216.59,
-      "timestamp": "2025-07-26T22:58:31",
+      "timestamp": "2025-07-26T23:40:25",
       "download_attempts": 0
     },
     "full_text": "💳银行的饭碗，真要被 Web3 抢了？一张卡，让你的加密资产直接全球刷！\n\n你是否也曾有过这样的瞬间：看着钱包里不断增长的加密资产，心里美滋滋，但真想用它买杯咖啡时，却发现隔着千山万水，需要经历兑换、提现等一系列复杂操作？这种“看得见，摸不着”的财富，何时才能像银行存款一样方便？ https://t.co/3NP3O2CdEQ",
@@ -262,5 +262,83 @@
     },
     "full_text": "https://t.co/xsc5KRmoXZ",
     "publish_time": "2025-07-26T22:50:19"
+  },
+  {
+    "file_name": "GwyxhfZagAAs9lA.jpg",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwyxhfZagAAs9lA.jpg",
+    "read_time": "2025-07-26 23:40:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 329,
+      "timestamp": "2025-07-26T23:40:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153100,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-26T23:40:25",
+      "download_attempts": 0
+    },
+    "full_text": "【中奖名单公布】\n感谢大家参与非小号直播间互动！\n本期获得空投奖励的用户ID如下：\n👉 148459\n👉 148533\n👉 148400\n👉 148415\n\n请以上用户保持关注，我们将尽快完成空投发放！🚀\n非小号🌍： https://t.co/LPhHzYtbhp https://t.co/UJJGIwqnqL",
+    "publish_time": "2025-07-26T23:21:30"
+  },
+  {
+    "file_name": "GwyxyBqbMAACcaK.jpg",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwyxyBqbMAACcaK.jpg",
+    "read_time": "2025-07-26 23:40:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 330,
+      "timestamp": "2025-07-26T23:40:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 374072,
+      "size_mb": 0.36,
+      "timestamp": "2025-07-26T23:40:27",
+      "download_attempts": 0
+    },
+    "full_text": "🎙Talkingweb3 &amp; Runesoul 百大Kol直播预告🚀\n\n⏰时间：2025年07月27日(周日) 20:00 (UTC+8)\n\n#FeiXiaoHao #非小号 https://t.co/CR7uepwD48",
+    "publish_time": "2025-07-26T23:22:53"
+  },
+  {
+    "file_name": "1vAxRDvQPXkGl",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1vAxRDvQPXkGl",
+    "read_time": "2025-07-26 23:40:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 331,
+      "timestamp": "2025-07-26T23:40:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-07-26T23:40:44",
+      "download_attempts": 0
+    },
+    "full_text": "🌟预告推文：https://t.co/jEMmUgRxBj\n📹 X 直播入口：https://t.co/d8bTFTRGxr\n\n📹 同步直播平台：X | 币安广场 | 币安Live | 火币Live | Gage Live | 热币Live | YouTube | Tiktok | Telegram | Otalk| Pumpkin | Sidekick\n\n🌟请锁定以上任一TalkingWeb3频道，或关注我们TG获取全部直播链接！",
+    "publish_time": "2025-07-26T23:22:54"
   }
 ]
