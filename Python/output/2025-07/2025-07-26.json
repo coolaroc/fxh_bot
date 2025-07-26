@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (238MB > 50MB)",
       "timestamp": "2025-07-26T10:28:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 250104391,
       "size_mb": 238.52,
-      "timestamp": "2025-07-26T10:28:13",
+      "timestamp": "2025-07-26T11:50:26",
       "download_attempts": 0
     },
     "full_text": "💡一杯“资产咖啡”，双份收益？CICADA Finance投资人揭秘Web3资管新玩法，普通人也能投顶级项目！\n\n想投资那些遥不可及的顶级项目却苦于没有门槛？想在稳健的资产收益之上，再添一份Web3独有的超额惊喜？这听起来或许有些“奢侈”，但在非小号LIVE100的最新一期直播中，创新资管平台CICADA Finance https://t.co/nwthTZhRIm",
