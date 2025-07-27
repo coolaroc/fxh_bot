@@ -26,5 +26,33 @@
     "tweetUrl": "https://x.com/RwaArtInc/status/1949361137684033745",
     "fullText": "All Early Bird NFTs have been distributed.\nCheck your wallet⚡️",
     "publishTime": "2025-07-27T14:48:07"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw2SKvcbEAACuT1.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949375051209261394",
+    "fullText": "【#非小号Live100】第14期直播预告！🚀\n\n当DeFi进入下半场，智能、隐私和安全成为新标准，谁将定义未来？本期我们深度对话由道富环球基金(State Street)等顶级机构发起的Star chain bank（星链银行）@starcbank ，共同探讨DeFi 4.0的革命性解决方案！\n\n⏰ 时间: 2025年07月28日 (周一) 20:00 (UTC+8) https://t.co/h1obqG1eEh",
+    "publishTime": "2025-07-27T15:43:24"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1kvJpybYMvQxE"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949375054606917921",
+    "fullText": "🎥 X 直播入口：https://t.co/prMzHeCPcD",
+    "publishTime": "2025-07-27T15:43:25"
   }
 ]
