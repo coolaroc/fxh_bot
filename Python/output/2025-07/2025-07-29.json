@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (227MB > 50MB)",
       "timestamp": "2025-07-29T00:50:06",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 238520100,
       "size_mb": 227.47,
-      "timestamp": "2025-07-29T00:50:06",
+      "timestamp": "2025-07-29T01:15:47",
       "download_attempts": 0
     },
     "full_text": "🚀 不只存钱生息，这家“星链银行”还想让你玩游戏、用U卡！一文读懂 SCBank 新玩法\n\n随着市场热度回升，Web3 世界的创新引擎再次全速轰鸣。各种新概念、新项目让人目不暇接，尤其是在去中心化金融（DeFi）领域，新一代的“链上银行”正试图重新定义我们的资产管理方式。 https://t.co/QXk7Fx2HFj",
@@ -130,5 +130,137 @@
     },
     "full_text": "https://t.co/JvJAEAJrbQ",
     "publish_time": "2025-07-29T00:11:27"
+  },
+  {
+    "file_name": "lg_MwR0-LxA36H_z.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949876921640308736/vid/avc1/1280x720/lg_MwR0-LxA36H_z.mp4?tag=21",
+    "read_time": "2025-07-29 01:15:44",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (345MB > 50MB)",
+      "timestamp": "2025-07-29T01:16:20",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 362647313,
+      "size_mb": 345.85,
+      "timestamp": "2025-07-29T01:16:20",
+      "download_attempts": 0
+    },
+    "full_text": "📈不止是安全！我们和HotCoin深聊1小时，挖出了这些“内幕”猛料\n\n在风云变幻的Web3世界，一个名字能被大家记住8年，实属不易。HotCoin @hotcoinzh  ，或者说大家更熟悉的热币，就是其中之一。但除了“一个老牌交易所”这个模糊的标签，它究竟好在哪？它在坚持什么？ https://t.co/OClk6t3joN",
+    "publish_time": "2025-07-29T01:05:24"
+  },
+  {
+    "file_name": "Gw9cOXqbUAIFN2j.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw9cOXqbUAIFN2j.jpg",
+    "read_time": "2025-07-29 01:15:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 352,
+      "timestamp": "2025-07-29T01:16:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168525,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-29T01:16:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IwNF0Cvezq",
+    "publish_time": "2025-07-29T01:05:25"
+  },
+  {
+    "file_name": "Gw9cOXLasAAQPTR.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw9cOXLasAAQPTR.jpg",
+    "read_time": "2025-07-29 01:15:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 353,
+      "timestamp": "2025-07-29T01:16:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161958,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-29T01:16:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IwNF0Cvezq",
+    "publish_time": "2025-07-29T01:05:25"
+  },
+  {
+    "file_name": "Gw9cOXKbcAAn2qd.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw9cOXKbcAAn2qd.jpg",
+    "read_time": "2025-07-29 01:15:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 354,
+      "timestamp": "2025-07-29T01:16:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165842,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-29T01:16:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IwNF0Cvezq",
+    "publish_time": "2025-07-29T01:05:25"
+  },
+  {
+    "file_name": "Gw9cOXWbUAMkOm4.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw9cOXWbUAMkOm4.jpg",
+    "read_time": "2025-07-29 01:15:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 355,
+      "timestamp": "2025-07-29T01:16:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165801,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-29T01:16:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IwNF0Cvezq",
+    "publish_time": "2025-07-29T01:05:25"
   }
 ]
