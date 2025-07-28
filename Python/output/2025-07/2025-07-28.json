@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (226MB > 50MB)",
       "timestamp": "2025-07-28T13:00:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 236995898,
       "size_mb": 226.02,
-      "timestamp": "2025-07-28T13:00:19",
+      "timestamp": "2025-07-28T13:47:58",
       "download_attempts": 0
     },
     "full_text": "别再“挖提卖”了！我们和 Runesoul 聊了聊，发现 GameFi 4.0 的秘密… 💡\n\n“今天挖，明天提，后天卖”，这套流程你是不是已经刻烟吸肺了？当我们在 Web3 https://t.co/RLst9924W6",
