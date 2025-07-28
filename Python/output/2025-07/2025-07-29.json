@@ -146,14 +146,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (345MB > 50MB)",
       "timestamp": "2025-07-29T01:16:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 362647313,
       "size_mb": 345.85,
-      "timestamp": "2025-07-29T01:16:20",
+      "timestamp": "2025-07-29T01:42:03",
       "download_attempts": 0
     },
     "full_text": "📈不止是安全！我们和HotCoin深聊1小时，挖出了这些“内幕”猛料\n\n在风云变幻的Web3世界，一个名字能被大家记住8年，实属不易。HotCoin @hotcoinzh  ，或者说大家更熟悉的热币，就是其中之一。但除了“一个老牌交易所”这个模糊的标签，它究竟好在哪？它在坚持什么？ https://t.co/OClk6t3joN",
