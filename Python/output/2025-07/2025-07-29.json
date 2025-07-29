@@ -356,14 +356,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (224MB > 50MB)",
       "timestamp": "2025-07-29T23:44:22",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 235809623,
       "size_mb": 224.89,
-      "timestamp": "2025-07-29T23:44:22",
+      "timestamp": "2025-07-30T00:00:37",
       "download_attempts": 0
     },
     "full_text": "AI伴侣还是数据矿机？我们和LazAI聊了聊AI的Web3终局 💡\n\n你有没有想过，每天和我们形影不离的AI，它收集的数据到底属于谁？我们和它聊天、训练它变得更聪明，这些看不见的付出，真的就白白送给科技巨头了吗？\n\n带着这些疑问，最新一期的【#非小号Live100】再次启航。这一次，我们携手老朋友 Cointime https://t.co/sW4wXMakCS",
