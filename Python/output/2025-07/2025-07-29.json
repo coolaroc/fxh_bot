@@ -340,5 +340,137 @@
     },
     "full_text": "🎁 The first batch of exclusive merch from @Rwaartinc is here!\n\nSpecial rewards for the first 50 early supporters!\n\nLimited · Exclusive · Ongoing drops\nThis is just the beginning — more rewards are on the way!\n\n📦 Shipping time will be announced first on Twitter\n💬 Feel free to https://t.co/TvvFXtGGI9",
     "publish_time": "2025-07-29T14:41:24"
+  },
+  {
+    "file_name": "g3TqjxWKc6To3vWO.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1950208770241679364/vid/avc1/1280x720/g3TqjxWKc6To3vWO.mp4?tag=21",
+    "read_time": "2025-07-29 23:44:00",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (224MB > 50MB)",
+      "timestamp": "2025-07-29T23:44:22",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 235809623,
+      "size_mb": 224.89,
+      "timestamp": "2025-07-29T23:44:22",
+      "download_attempts": 0
+    },
+    "full_text": "AI伴侣还是数据矿机？我们和LazAI聊了聊AI的Web3终局 💡\n\n你有没有想过，每天和我们形影不离的AI，它收集的数据到底属于谁？我们和它聊天、训练它变得更聪明，这些看不见的付出，真的就白白送给科技巨头了吗？\n\n带着这些疑问，最新一期的【#非小号Live100】再次启航。这一次，我们携手老朋友 Cointime https://t.co/sW4wXMakCS",
+    "publish_time": "2025-07-29T23:18:03"
+  },
+  {
+    "file_name": "GxCMnkDbUAkAuD5.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxCMnkDbUAkAuD5.jpg",
+    "read_time": "2025-07-29 23:44:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 359,
+      "timestamp": "2025-07-29T23:44:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172791,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-29T23:44:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4Kz25bmUeZ",
+    "publish_time": "2025-07-29T23:18:04"
+  },
+  {
+    "file_name": "GxCMnkwaMAAPMYR.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxCMnkwaMAAPMYR.jpg",
+    "read_time": "2025-07-29 23:44:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 360,
+      "timestamp": "2025-07-29T23:44:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179212,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-29T23:44:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4Kz25bmUeZ",
+    "publish_time": "2025-07-29T23:18:04"
+  },
+  {
+    "file_name": "GxCMnkMbQAAAIYr.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxCMnkMbQAAAIYr.jpg",
+    "read_time": "2025-07-29 23:44:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 361,
+      "timestamp": "2025-07-29T23:44:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176172,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-29T23:44:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4Kz25bmUeZ",
+    "publish_time": "2025-07-29T23:18:04"
+  },
+  {
+    "file_name": "GxCMnkdb0AAdP28.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxCMnkdb0AAdP28.jpg",
+    "read_time": "2025-07-29 23:44:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 362,
+      "timestamp": "2025-07-29T23:44:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184858,
+      "size_mb": 0.18,
+      "timestamp": "2025-07-29T23:44:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4Kz25bmUeZ",
+    "publish_time": "2025-07-29T23:18:04"
   }
 ]
