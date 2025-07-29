@@ -314,5 +314,31 @@
     },
     "full_text": "🎥 X 直播入口：https://t.co/kZwLzcnlYk",
     "publish_time": "2025-07-29T13:01:32"
+  },
+  {
+    "file_name": "GxAXQk8bwAA1x3w.jpg",
+    "user": {
+      "screen_name": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxAXQk8bwAA1x3w.jpg",
+    "read_time": "2025-07-29 14:52:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 358,
+      "timestamp": "2025-07-29T14:52:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89984,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-29T14:52:45",
+      "download_attempts": 0
+    },
+    "full_text": "🎁 The first batch of exclusive merch from @Rwaartinc is here!\n\nSpecial rewards for the first 50 early supporters!\n\nLimited · Exclusive · Ongoing drops\nThis is just the beginning — more rewards are on the way!\n\n📦 Shipping time will be announced first on Twitter\n💬 Feel free to https://t.co/TvvFXtGGI9",
+    "publish_time": "2025-07-29T14:41:24"
   }
 ]
