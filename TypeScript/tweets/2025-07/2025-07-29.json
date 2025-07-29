@@ -60,5 +60,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1949878875502366815",
     "fullText": "https://t.co/IwNF0Cvezq",
     "publishTime": "2025-07-29T01:05:25"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxAAZQLWMAAYbYq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1950059087653212476",
+    "fullText": "【#非小号Live100】第16期直播预告！🚀\n\n🎁30个LazAI AI伴侣DAT白名单空投！当你的AI拥有链上资产，Web3的未来将被如何改写？本期我们联合(@Cointime_global) 深度对话原生于Web3的AI基础设施协议LazAI (@LazAINetwork)，邀请其首席科学顾问王博士，共同揭秘个性化AI代理的资产化与激励模型！\n\n⏰ https://t.co/fdGsoMr0oz",
+    "publishTime": "2025-07-29T13:01:31"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1RDxlzywvLEGL"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1950059091411210416",
+    "fullText": "🎥 X 直播入口：https://t.co/kZwLzcnlYk",
+    "publishTime": "2025-07-29T13:01:32"
   }
 ]
