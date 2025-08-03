@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (247MB > 50MB)",
       "timestamp": "2025-08-03T23:39:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 259630621,
       "size_mb": 247.6,
-      "timestamp": "2025-08-03T23:39:46",
+      "timestamp": "2025-08-03T23:58:42",
       "download_attempts": 0
     },
     "full_text": "🚀Metya全球大使揭秘：AI社交+硬件挖矿如何打造Web3“超级应用”？\n\n未来的Web3社交究竟该是什么样？在第17期的【#非小号Live100】中，我们邀请到热门Web3约会平台Metya @metyacom https://t.co/hcWWbxQ4eb",
