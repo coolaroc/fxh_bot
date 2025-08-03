@@ -76,5 +76,137 @@
     },
     "full_text": "https://t.co/AQZsgDaWA6 Daily Insight: Can You Tell Dirt from True Patina❓\n\nPatina isn’t grime — it’s the natural luster and texture shaped by time\n\n🤩Bronze becomes smooth and oily, jade glows from within, wood shines like wax\n\n⚠️ Beware of fake patina: artificially applied in https://t.co/BM45DahPMA",
     "publish_time": "2025-08-03T18:41:34"
+  },
+  {
+    "file_name": "Zzt7cGGdxTvXLIsi.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1952016750637469696/vid/avc1/1280x720/Zzt7cGGdxTvXLIsi.mp4?tag=21",
+    "read_time": "2025-08-03 23:39:24",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (247MB > 50MB)",
+      "timestamp": "2025-08-03T23:39:46",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 259630621,
+      "size_mb": 247.6,
+      "timestamp": "2025-08-03T23:39:46",
+      "download_attempts": 0
+    },
+    "full_text": "🚀Metya全球大使揭秘：AI社交+硬件挖矿如何打造Web3“超级应用”？\n\n未来的Web3社交究竟该是什么样？在第17期的【#非小号Live100】中，我们邀请到热门Web3约会平台Metya @metyacom https://t.co/hcWWbxQ4eb",
+    "publish_time": "2025-08-03T22:58:33"
+  },
+  {
+    "file_name": "Gxb072IbcAAurX2.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxb072IbcAAurX2.jpg",
+    "read_time": "2025-08-03 23:39:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 384,
+      "timestamp": "2025-08-03T23:39:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170578,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-03T23:39:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOgfM1on4H",
+    "publish_time": "2025-08-03T22:58:35"
+  },
+  {
+    "file_name": "Gxb073cbYAAC1vU.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxb073cbYAAC1vU.jpg",
+    "read_time": "2025-08-03 23:39:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 385,
+      "timestamp": "2025-08-03T23:39:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168722,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-03T23:39:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOgfM1on4H",
+    "publish_time": "2025-08-03T22:58:35"
+  },
+  {
+    "file_name": "Gxb073ZbYAAMyrQ.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxb073ZbYAAMyrQ.jpg",
+    "read_time": "2025-08-03 23:39:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 386,
+      "timestamp": "2025-08-03T23:39:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168228,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-03T23:39:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOgfM1on4H",
+    "publish_time": "2025-08-03T22:58:35"
+  },
+  {
+    "file_name": "Gxb078ibwAA4jjg.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxb078ibwAA4jjg.jpg",
+    "read_time": "2025-08-03 23:39:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 387,
+      "timestamp": "2025-08-03T23:39:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171423,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-03T23:39:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOgfM1on4H",
+    "publish_time": "2025-08-03T22:58:35"
   }
 ]
