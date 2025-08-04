@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (268MB > 50MB)",
       "timestamp": "2025-08-05T00:51:35",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 281370981,
       "size_mb": 268.34,
-      "timestamp": "2025-08-05T00:51:35",
+      "timestamp": "2025-08-05T01:44:53",
       "download_attempts": 0
     },
     "full_text": "别只当观众了！你的每一次奔跑，都可能价值千金 💰\n\n你有没有想过，每天在健身房挥洒的汗水、周末为支持球队的每一次呐喊，除了换来多巴胺和一身疲惫，还能带来真金白银的收益？当体育的激情撞上 Web3 的魔力，一个全新的世界正在打开。\n\n这听起来像是天方夜谭吗？在由非小号 @FeiXiaoHaoZH https://t.co/wMGg7uNOmA",
