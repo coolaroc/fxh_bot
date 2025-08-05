@@ -250,14 +250,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (256MB > 50MB)",
       "timestamp": "2025-08-05T22:48:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 268614909,
       "size_mb": 256.17,
-      "timestamp": "2025-08-05T22:48:12",
+      "timestamp": "2025-08-05T23:12:09",
       "download_attempts": 0
     },
     "full_text": "当别人还在画大饼，这个项目已默默运行4年！ATM如何打造能打金、能旅游的Web3生活圈？🤔\n\n在Web3的世界里，你是否也曾追过热点，却发现许多项目如流星般划过，热闹过后只剩一地鸡毛？当“风口”和“叙事”满天飞时，那些真正穿越周期、持续建设的团队就显得格外珍贵。\n\n最近，在由非小号 @FeiXiaoHaoZH https://t.co/iHDsWG30ER",
