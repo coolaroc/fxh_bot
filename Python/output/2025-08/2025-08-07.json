@@ -50,5 +50,137 @@
     },
     "full_text": "🎥 X 直播入口：https://t.co/XOLrAMMsl4",
     "publish_time": "2025-08-07T00:04:58"
+  },
+  {
+    "file_name": "7iUz_yR_fP_1OA-L.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1953146979653173251/vid/avc1/1280x720/7iUz_yR_fP_1OA-L.mp4?tag=21",
+    "read_time": "2025-08-07 01:43:14",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (345MB > 50MB)",
+      "timestamp": "2025-08-07T01:43:54",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 362241229,
+      "size_mb": 345.46,
+      "timestamp": "2025-08-07T01:43:54",
+      "download_attempts": 0
+    },
+    "full_text": "当“爱与共识”能赚钱：一个Web3公益项目，如何带你逆袭改命？💡\n\n感觉被时代抛下了吗？一边是AI飞速发展，感觉饭碗不保；另一边是传统机会越来越少，钱包越来越瘪。很多人把目光投向了充满未知与机会的Web3，却又被满屏的专业术语和“币圈一天，人间十年”的巨大波动劝退。 https://t.co/VfDgqVt1rX",
+    "publish_time": "2025-08-07T01:41:30"
+  },
+  {
+    "file_name": "Gxr20HjbMAAVbyx.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxr20HjbMAAVbyx.jpg",
+    "read_time": "2025-08-07 01:43:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 409,
+      "timestamp": "2025-08-07T01:43:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118363,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-07T01:43:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1U6MLbv7vy",
+    "publish_time": "2025-08-07T01:41:31"
+  },
+  {
+    "file_name": "Gxr20HpawAIVlxZ.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxr20HpawAIVlxZ.jpg",
+    "read_time": "2025-08-07 01:43:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 410,
+      "timestamp": "2025-08-07T01:44:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112192,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-07T01:43:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1U6MLbv7vy",
+    "publish_time": "2025-08-07T01:41:31"
+  },
+  {
+    "file_name": "Gxr20IPbgAA8ymA.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxr20IPbgAA8ymA.jpg",
+    "read_time": "2025-08-07 01:43:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 411,
+      "timestamp": "2025-08-07T01:44:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113780,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-07T01:44:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1U6MLbv7vy",
+    "publish_time": "2025-08-07T01:41:31"
+  },
+  {
+    "file_name": "Gxr20H7awAIzcd2.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxr20H7awAIzcd2.jpg",
+    "read_time": "2025-08-07 01:43:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 412,
+      "timestamp": "2025-08-07T01:44:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119590,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-07T01:44:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1U6MLbv7vy",
+    "publish_time": "2025-08-07T01:41:31"
   }
 ]
