@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (345MB > 50MB)",
       "timestamp": "2025-08-07T01:43:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 362241229,
       "size_mb": 345.46,
-      "timestamp": "2025-08-07T01:43:54",
+      "timestamp": "2025-08-07T01:59:09",
       "download_attempts": 0
     },
     "full_text": "当“爱与共识”能赚钱：一个Web3公益项目，如何带你逆袭改命？💡\n\n感觉被时代抛下了吗？一边是AI飞速发展，感觉饭碗不保；另一边是传统机会越来越少，钱包越来越瘪。很多人把目光投向了充满未知与机会的Web3，却又被满屏的专业术语和“币圈一天，人间十年”的巨大波动劝退。 https://t.co/VfDgqVt1rX",
