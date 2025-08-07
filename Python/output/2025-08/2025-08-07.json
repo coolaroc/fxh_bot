@@ -182,5 +182,31 @@
     },
     "full_text": "https://t.co/1U6MLbv7vy",
     "publish_time": "2025-08-07T01:41:31"
+  },
+  {
+    "file_name": "GxuUs_xawAARIap.jpg",
+    "user": {
+      "screen_name": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxuUs_xawAARIap.jpg",
+    "read_time": "2025-08-07 12:59:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 413,
+      "timestamp": "2025-08-07T12:59:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149658,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-07T12:59:49",
+      "download_attempts": 0
+    },
+    "full_text": "🎁 Holders of the \"Bu·Early Bird Commemorative Badge\" NFT — we've got something special coming.\n\nSoon, you'll be able to verify your eligibility on our official site to claim a $300 discount code for the Bitring smart ring 💍\n\nEach code is unique and one-time-use, exclusively for https://t.co/uDcsqWa5pM",
+    "publish_time": "2025-08-07T12:57:05"
   }
 ]
