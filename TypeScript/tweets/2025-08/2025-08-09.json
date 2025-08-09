@@ -29,5 +29,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1954050541602189357",
     "fullText": "https://t.co/4cRqzPzfsM",
     "publishTime": "2025-08-09T13:22:08"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx40RsyawAAguR2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1954064007297741032",
+    "fullText": "【#非小号Live100】第25期 &amp; POLEX 直播预告！🚀\n\n当挖矿收益不再依赖币价，而是由真实世界资产(RWA)的现金流支撑，DeFi的下半场将迎来怎样的变革？本周日，我们深度对话全球首个融合AI与RWA的智能金融生态平台Polex @PolEX_RWA，揭秘其如何打造一个高收益且可持续的链上金融生态！\n\n⏰ 时间: https://t.co/xrrdrnsLcJ",
+    "publishTime": "2025-08-09T14:15:38"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1rmGPyvPgoEJN"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1954064010103713958",
+    "fullText": "🎥 X 直播入口：https://t.co/7PrIU6nN4g",
+    "publishTime": "2025-08-09T14:15:39"
   }
 ]
