@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (224MB > 50MB)",
       "timestamp": "2025-08-09T13:40:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 235468622,
       "size_mb": 224.56,
-      "timestamp": "2025-08-09T13:40:33",
+      "timestamp": "2025-08-09T13:58:19",
       "download_attempts": 0
     },
     "full_text": "现场直击600%飙升！我们和几位圈内人，聊透了$AISPF上线即狂欢背后的秘密 📈\n\n你有多久没体验过那种守在屏幕前，看着K线像火箭一样发射的心跳感觉了？\n\n就在昨晚，【#非小号Live100】的直播间就上演了这样一场“数字世界的跨年敲钟”仪式。我们和所有观众一起，共同见证了AISPF @SPFMETAWEB3 https://t.co/hjuq1mIqII",
