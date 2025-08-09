@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (221MB > 50MB)",
       "timestamp": "2025-08-10T00:44:22",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 231936183,
       "size_mb": 221.19,
-      "timestamp": "2025-08-10T00:44:22",
+      "timestamp": "2025-08-10T00:58:56",
       "download_attempts": 0
     },
     "full_text": "投资不再是“少数人的游戏”？这个项目想用 Web3 把 VC 搬上链，让人人都能当老板！💼\n\n你是不是也觉得，一提到“投资早期项目”，就感觉那是一个离自己很遥远、充满神秘色彩的世界？仿佛只有手握重金的 VC（风险投资机构）才能入场，而我们普通人，只能在二级市场追涨杀跌，感叹“要是能早点发现就好了”。 https://t.co/uN7aX7TMiX",
