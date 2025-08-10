@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (217MB > 50MB)",
       "timestamp": "2025-08-11T02:45:42",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 228396929,
       "size_mb": 217.82,
-      "timestamp": "2025-08-11T02:45:42",
+      "timestamp": "2025-08-11T02:58:45",
       "download_attempts": 0
     },
     "full_text": "矿塌了本金都没了？当AI遇上RWA，挖矿的底层逻辑彻底变了！💡\n\n你是否也曾在DeFi的浪潮中彻夜“挖矿”，盯着飞涨的APR心潮澎湃，却又时刻担心项目方跑路、币价雪崩，最终“挖了个寂寞”？当热潮退去，我们不禁思考：除了高风险的博弈，Web3里是否存在更稳健、更可持续的收益方式？\n\n这正是我们 https://t.co/RiQjWqGYQB",
