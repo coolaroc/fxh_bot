@@ -156,5 +156,137 @@
     },
     "full_text": "https://t.co/pRmTVvRkdX",
     "publish_time": "2025-08-10T00:32:36"
+  },
+  {
+    "file_name": "omzu5OFSEZlNLMSj.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1954282526459166720/vid/avc1/1280x720/omzu5OFSEZlNLMSj.mp4?tag=21",
+    "read_time": "2025-08-10 15:33:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (242MB > 50MB)",
+      "timestamp": "2025-08-10T15:34:08",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 254522439,
+      "size_mb": 242.73,
+      "timestamp": "2025-08-10T15:34:08",
+      "download_attempts": 0
+    },
+    "full_text": "🚀 Meme币都是土狗？这个“LUFY社区”的玩法，正颠覆你的认知！\n\n“山寨币涨不动”、“冲个Meme又被割了”，最近市场情绪不高，你是不是也感同身受？当大部分人还在追涨杀跌、寻找下一个百倍密码时，总有一些人在用不同的方式探索Web3的未来。在最近一期由非小号 @FeiXiaoHaoZH https://t.co/4A2J6nRmlc",
+    "publish_time": "2025-08-10T15:02:14"
+  },
+  {
+    "file_name": "Gx8VOfLakAA2Rd8.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx8VOfLakAA2Rd8.jpg",
+    "read_time": "2025-08-10 15:33:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 442,
+      "timestamp": "2025-08-10T15:34:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172783,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-10T15:34:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HLTDBSFUUv",
+    "publish_time": "2025-08-10T15:02:15"
+  },
+  {
+    "file_name": "Gx8VOfEbEAAsyZS.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx8VOfEbEAAsyZS.jpg",
+    "read_time": "2025-08-10 15:33:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 443,
+      "timestamp": "2025-08-10T15:34:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181974,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-10T15:34:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HLTDBSFUUv",
+    "publish_time": "2025-08-10T15:02:15"
+  },
+  {
+    "file_name": "Gx8VOfEakAAOj97.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx8VOfEakAAOj97.jpg",
+    "read_time": "2025-08-10 15:33:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 444,
+      "timestamp": "2025-08-10T15:34:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180802,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-10T15:34:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HLTDBSFUUv",
+    "publish_time": "2025-08-10T15:02:15"
+  },
+  {
+    "file_name": "Gx8VOfDbwAAXgli.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx8VOfDbwAAXgli.jpg",
+    "read_time": "2025-08-10 15:33:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 445,
+      "timestamp": "2025-08-10T15:34:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180463,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-10T15:34:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HLTDBSFUUv",
+    "publish_time": "2025-08-10T15:02:15"
   }
 ]
