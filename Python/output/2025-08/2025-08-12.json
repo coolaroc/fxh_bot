@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (234MB > 50MB)",
       "timestamp": "2025-08-12T03:58:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 245667880,
       "size_mb": 234.29,
-      "timestamp": "2025-08-12T03:58:38",
+      "timestamp": "2025-08-12T04:37:57",
       "download_attempts": 0
     },
     "full_text": "登陆币安Alpha！WORLD3联合创始人亲解：AI“劳动力大军”如何改变你的Web3世界？ 🚀\n\n昨日AI+Web3赛道传来重磅消息，备受瞩目的WORLD3 @WORLD3_AI  项目正式登陆币安Alpha，瞬间点燃了整个市场的热情。大家都很好奇，究竟是怎样的实力和愿景，能让一个项目通过币安严苛的筛选，成为万众瞩目的Alpha新星？ https://t.co/LRLiXrvM83",
