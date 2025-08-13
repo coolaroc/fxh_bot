@@ -354,14 +354,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (398MB > 50MB)",
       "timestamp": "2025-08-13T23:35:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 418265748,
       "size_mb": 398.89,
-      "timestamp": "2025-08-13T23:35:10",
+      "timestamp": "2025-08-13T23:58:14",
       "download_attempts": 0
     },
     "full_text": "告别空气币！印尼“皇家”充电桩项目，如何把电费变成你的资产？📈\n\n你是否也曾对满天飞的“空气币”感到厌倦，渴望找到那些真正与现实世界产生连接、能创造持续价值的 Web3 项目？当我们在讨论区块链如何改变世界时，它究竟能带来哪些看得见、摸得着的改变？\n\n这正是我们【#非小号Live100】持续关注 https://t.co/F55AAuUXwl",
