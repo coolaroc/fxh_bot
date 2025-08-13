@@ -281,5 +281,34 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1955564864296071196",
     "fullText": "https://t.co/774LJHklpz",
     "publishTime": "2025-08-13T17:39:30"
+  },
+  {
+    "user": {
+      "screenName": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyOU_PIasAAP6hH.jpg",
+      "https://pbs.twimg.com/media/GyOU_VRbQAAQ64-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://www.feixiaohao.ai/#/pages/content/newsDetail/index?eq=eyJpbmZvcm1hdGlvbl9pZCI6MzQ2OTl9"
+    ],
+    "tweetUrl": "https://x.com/FeiXiaoHaoZH/status/1955570491621822485",
+    "fullText": "📰：非小号全球行-韩国站 非小号Alpha新闻发布会，获得海外KOL祝贺\n\n非小号全球行-韩国站Alpha新闻发布会盛大启幕！8月14日，高阳酒店汇聚250+精英，甄选MatchAI、AlphaWorld、MiniDoge、Tail、Squidverse等优质项目现场互动。\n\n🔗：https://t.co/YYcODM8FRq https://t.co/U1v0IwybdE",
+    "publishTime": "2025-08-13T18:01:52"
+  },
+  {
+    "user": {
+      "screenName": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FeiXiaoHaoZH/status/1955570495249961267",
+    "fullText": "越南等海外KOL齐发贺词，赞誉非小号10亿用户影响力，并期待Web3鱿鱼游戏主题邮轮体验。活动获宝蓝、KT团队支持，共探区块链机遇！",
+    "publishTime": "2025-08-13T18:01:53"
   }
 ]
