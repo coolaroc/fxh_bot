@@ -138,20 +138,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GydhwH1aoAAnoJn.jpg",
     "read_time": "2025-08-16 16:57:59",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-16T16:58:19",
-      "notification_sent": false
+      "success": true,
+      "message_id": 500,
+      "timestamp": "2025-08-16T17:34:39"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 175380,
       "size_mb": 0.17,
-      "timestamp": "2025-08-16T16:57:59",
+      "timestamp": "2025-08-16T17:34:38",
       "download_attempts": 0
     },
     "full_text": "11天倒计时！比特币亚洲峰会嘉年华：Web3、DeFi与比特币点燃全球区块链狂潮！\n\n🔥 倒计时 11 天！\n比特币亚洲峰会周嘉年华即将引爆区块链热潮！\n\n🚀11天后，全球行业领袖 、技术先锋 、投资大咖  将汇聚一堂，共同探讨Web3、DeFi、比特币与现实世界资产的无限可能！ https://t.co/Ooc5xsgBtN",
