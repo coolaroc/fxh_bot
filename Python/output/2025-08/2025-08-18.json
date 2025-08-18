@@ -276,14 +276,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (409MB > 50MB)",
       "timestamp": "2025-08-18T15:39:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 429015327,
       "size_mb": 409.14,
-      "timestamp": "2025-08-18T15:39:20",
+      "timestamp": "2025-08-18T15:58:49",
       "download_attempts": 0
     },
     "full_text": "当红平台“暴雷”后，我们和OdinSmart聊了聊真心话 🤔\n\n最近，比特币生态的热门发射平台 Odin Fun 可谓是站在了风口浪尖。一则“58.2个比特币被盗”的消息，瞬间引爆了社区的信任危机。一时间，阴谋论四起，有人说这是项目方监守自盗，有人则认为是黑客攻击下的技术事故。市场情绪低迷，人心惶惶。 https://t.co/m5uiEb4fIS",
@@ -392,5 +392,109 @@
     },
     "full_text": "https://t.co/GgNl4BPZt3",
     "publish_time": "2025-08-18T15:27:17"
+  },
+  {
+    "file_name": "Gynl_fQaIAANGxn.jpg",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gynl_fQaIAANGxn.jpg",
+    "read_time": "2025-08-18 15:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 517,
+      "timestamp": "2025-08-18T15:58:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66938,
+      "size_mb": 0.06,
+      "timestamp": "2025-08-18T15:58:49",
+      "download_attempts": 0
+    },
+    "full_text": "🚨 非小号独家爆料：BoostARA 创世发布会今晚重磅来袭！开启体育力量×Web3新时代！\n\n📅 时间：今晚8月18日 20:00 (UTC+8)\n🎁 参与即有机会瓜分5,000,000 $ARA空投奖励！更有888 ARA个人空投等你赢取！\n🌟 顶级嘉宾齐聚，深度探讨Sports × Web3挖矿未来范式与BoostARA全球战略。 https://t.co/HHENhhNvlr",
+    "publish_time": "2025-08-18T15:48:54"
+  },
+  {
+    "file_name": "1ynJOMLbzDwKR",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1ynJOMLbzDwKR",
+    "read_time": "2025-08-18 15:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 518,
+      "timestamp": "2025-08-18T15:58:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-08-18T15:58:51",
+      "download_attempts": 0
+    },
+    "full_text": "🔗 直播链接：https://t.co/EHcHb1QbEw\n\n📌 会议ID：788-706-623\n体育爱好者&amp;Web3先锋，别错过！扫描加入，共襄盛举~ @BoostAraHQ\n\n#BoostARA #Web3 #Sports #Airdrop #CryptoNews #FeiXiaoHao #非小号",
+    "publish_time": "2025-08-18T15:48:54"
+  },
+  {
+    "file_name": "GynmtdTb0AA8eE8.jpg",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GynmtdTb0AA8eE8.jpg",
+    "read_time": "2025-08-18 15:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 519,
+      "timestamp": "2025-08-18T15:58:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184313,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-18T15:58:51",
+      "download_attempts": 0
+    },
+    "full_text": "🎙【#非小号Live100】第29期：GOAT Network\n\n⏰时间：2025年08月19日 (周二) 20:00 (UTC+8) https://t.co/UfDxtfonIY",
+    "publish_time": "2025-08-18T15:51:25"
+  },
+  {
+    "file_name": "1djxXWeWoOzJZ",
+    "user": {
+      "screen_name": "FeiXiaoHaoZH",
+      "name": "非小号 🩵"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1djxXWeWoOzJZ",
+    "read_time": "2025-08-18 15:58:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 520,
+      "timestamp": "2025-08-18T15:58:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-08-18T15:58:53",
+      "download_attempts": 0
+    },
+    "full_text": "💡别错过这场干货满满的讨论！\n\n🌟预告推文：https://t.co/7x3t2PWJqw\n📹 X 直播入口：https://t.co/rqgcbLPDNB\n\n📹 同步直播平台：X | 币安广场 | 币安Live | 火币Live | Gate Live | 热币Live | YouTube | Tiktok | Telegram | Otalk| Pumpkin | Sidekick",
+    "publish_time": "2025-08-18T15:51:27"
   }
 ]
