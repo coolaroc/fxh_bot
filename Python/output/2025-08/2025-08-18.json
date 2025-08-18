@@ -144,14 +144,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (409MB > 50MB)",
       "timestamp": "2025-08-18T14:53:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 429015327,
       "size_mb": 409.14,
-      "timestamp": "2025-08-18T14:53:00",
+      "timestamp": "2025-08-18T15:39:16",
       "download_attempts": 0
     },
     "full_text": "当红平台“暴雷”后，我们和OdinSmart聊了聊真心话 🤔\n\n最近，比特币生态的热门发射平台 Orion Fun 可谓是站在了风口浪尖。一则“56个比特币被盗”的消息，瞬间引爆了社区的信任危机。一时间，阴谋论四起，有人说这是项目方监守自盗，有人则认为是黑客攻击下的技术事故。市场情绪低迷，人心惶惶。 https://t.co/LUCMzphIVM",
@@ -260,5 +260,137 @@
     },
     "full_text": "https://t.co/Vw9jB5r2v5",
     "publish_time": "2025-08-18T14:43:05"
+  },
+  {
+    "file_name": "3mhSoDtFmNltoECu.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957341774382526464/vid/avc1/1920x1080/3mhSoDtFmNltoECu.mp4?tag=21",
+    "read_time": "2025-08-18 15:39:11",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (409MB > 50MB)",
+      "timestamp": "2025-08-18T15:39:20",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 429015327,
+      "size_mb": 409.14,
+      "timestamp": "2025-08-18T15:39:20",
+      "download_attempts": 0
+    },
+    "full_text": "当红平台“暴雷”后，我们和OdinSmart聊了聊真心话 🤔\n\n最近，比特币生态的热门发射平台 Odin Fun 可谓是站在了风口浪尖。一则“58.2个比特币被盗”的消息，瞬间引爆了社区的信任危机。一时间，阴谋论四起，有人说这是项目方监守自盗，有人则认为是黑客攻击下的技术事故。市场情绪低迷，人心惶惶。 https://t.co/m5uiEb4fIS",
+    "publish_time": "2025-08-18T15:27:15"
+  },
+  {
+    "file_name": "GynfsmWaQAA1SYh.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GynfsmWaQAA1SYh.jpg",
+    "read_time": "2025-08-18 15:39:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 513,
+      "timestamp": "2025-08-18T15:39:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 178041,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-18T15:39:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GgNl4BPZt3",
+    "publish_time": "2025-08-18T15:27:17"
+  },
+  {
+    "file_name": "GynfsgKa0AA08kS.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GynfsgKa0AA08kS.jpg",
+    "read_time": "2025-08-18 15:39:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 514,
+      "timestamp": "2025-08-18T15:39:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175009,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-18T15:39:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GgNl4BPZt3",
+    "publish_time": "2025-08-18T15:27:17"
+  },
+  {
+    "file_name": "GynfsaxbUAAdMs0.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GynfsaxbUAAdMs0.jpg",
+    "read_time": "2025-08-18 15:39:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 515,
+      "timestamp": "2025-08-18T15:39:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176009,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-18T15:39:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GgNl4BPZt3",
+    "publish_time": "2025-08-18T15:27:17"
+  },
+  {
+    "file_name": "Gynfsq7akAAogFD.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gynfsq7akAAogFD.jpg",
+    "read_time": "2025-08-18 15:39:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 516,
+      "timestamp": "2025-08-18T15:39:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187856,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-18T15:39:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GgNl4BPZt3",
+    "publish_time": "2025-08-18T15:27:17"
   }
 ]
