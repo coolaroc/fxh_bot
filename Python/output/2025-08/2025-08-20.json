@@ -1,0 +1,136 @@
+[
+  {
+    "file_name": "Wx8ikhm3AOFxTFUI.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957815946430803969/vid/avc1/1920x1080/Wx8ikhm3AOFxTFUI.mp4?tag=21",
+    "read_time": "2025-08-20 01:58:23",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (400MB > 50MB)",
+      "timestamp": "2025-08-20T01:58:59",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 420059478,
+      "size_mb": 400.6,
+      "timestamp": "2025-08-20T01:58:59",
+      "download_attempts": 0
+    },
+    "full_text": "比特币只能“囤”？别傻了！GOAT Network 创始人揭秘：如何让你的 BTC 安全地“生息”赚钱 📈\n\n手里的比特币，除了看着 K 线图心情跌宕起伏，或者默默在冷钱包里“囤到天荒地老”，还能做什么？去年铭文和 BRC-20 的热潮，像一道闪电划破夜空，让我们窥见了比特币生态的巨大潜力，但随之而来的天价 Gas https://t.co/98cwy0oPHC",
+    "publish_time": "2025-08-20T01:47:02"
+  },
+  {
+    "file_name": "Gyu5ATYaYAA01EE.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyu5ATYaYAA01EE.jpg",
+    "read_time": "2025-08-20 01:58:23",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-20T01:59:20",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 166784,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-20T01:58:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DdYIp6U9zM",
+    "publish_time": "2025-08-20T01:47:06"
+  },
+  {
+    "file_name": "Gyu5ATqbUAA-yv6.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyu5ATqbUAA-yv6.jpg",
+    "read_time": "2025-08-20 01:58:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 524,
+      "timestamp": "2025-08-20T01:59:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177033,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-20T01:59:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DdYIp6U9zM",
+    "publish_time": "2025-08-20T01:47:06"
+  },
+  {
+    "file_name": "Gyu5AcLacAMdacz.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyu5AcLacAMdacz.jpg",
+    "read_time": "2025-08-20 01:58:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 525,
+      "timestamp": "2025-08-20T01:59:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 178120,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-20T01:59:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DdYIp6U9zM",
+    "publish_time": "2025-08-20T01:47:06"
+  },
+  {
+    "file_name": "Gyu5AV0aAAAwXjw.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyu5AV0aAAAwXjw.jpg",
+    "read_time": "2025-08-20 01:58:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 526,
+      "timestamp": "2025-08-20T01:59:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158039,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-20T01:59:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DdYIp6U9zM",
+    "publish_time": "2025-08-20T01:47:06"
+  }
+]
