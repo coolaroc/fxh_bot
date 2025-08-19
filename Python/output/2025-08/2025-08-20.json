@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (400MB > 50MB)",
       "timestamp": "2025-08-20T01:58:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 420059478,
       "size_mb": 400.6,
-      "timestamp": "2025-08-20T01:58:59",
+      "timestamp": "2025-08-20T02:44:46",
       "download_attempts": 0
     },
     "full_text": "比特币只能“囤”？别傻了！GOAT Network 创始人揭秘：如何让你的 BTC 安全地“生息”赚钱 📈\n\n手里的比特币，除了看着 K 线图心情跌宕起伏，或者默默在冷钱包里“囤到天荒地老”，还能做什么？去年铭文和 BRC-20 的热潮，像一道闪电划破夜空，让我们窥见了比特币生态的巨大潜力，但随之而来的天价 Gas https://t.co/98cwy0oPHC",
@@ -36,20 +36,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gyu5ATYaYAA01EE.jpg",
     "read_time": "2025-08-20 01:58:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-20T01:59:20",
-      "notification_sent": false
+      "success": true,
+      "message_id": 528,
+      "timestamp": "2025-08-20T02:44:47"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 166784,
       "size_mb": 0.16,
-      "timestamp": "2025-08-20T01:58:59",
+      "timestamp": "2025-08-20T02:44:46",
       "download_attempts": 0
     },
     "full_text": "https://t.co/DdYIp6U9zM",
