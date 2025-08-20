@@ -146,14 +146,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (522MB > 50MB)",
       "timestamp": "2025-08-20T19:32:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 547652088,
       "size_mb": 522.28,
-      "timestamp": "2025-08-20T19:32:19",
+      "timestamp": "2025-08-20T19:59:14",
       "download_attempts": 0
     },
     "full_text": "减半只是开胃菜？Web3 的下一波机会在这里！🤫\n\n看着起起伏伏的市场，你是不是也感到一丝焦虑？“牛市来了”的呼声不绝于耳，但真正的机会到底在哪？是追逐下一个热点，还是寻找能够穿越周期的价值？最近，在由我们 TalkingWeb3 https://t.co/HI4jNLbScw",
