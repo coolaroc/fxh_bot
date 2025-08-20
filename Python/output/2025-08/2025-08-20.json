@@ -130,5 +130,85 @@
     },
     "full_text": "https://t.co/DdYIp6U9zM",
     "publish_time": "2025-08-20T01:47:06"
+  },
+  {
+    "file_name": "C4q5_ylQuNA-mwO5.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958115439462195200/vid/avc1/1920x1080/C4q5_ylQuNA-mwO5.mp4?tag=21",
+    "read_time": "2025-08-20 19:31:27",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (522MB > 50MB)",
+      "timestamp": "2025-08-20T19:32:19",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 547652088,
+      "size_mb": 522.28,
+      "timestamp": "2025-08-20T19:32:19",
+      "download_attempts": 0
+    },
+    "full_text": "减半只是开胃菜？Web3 的下一波机会在这里！🤫\n\n看着起起伏伏的市场，你是不是也感到一丝焦虑？“牛市来了”的呼声不绝于耳，但真正的机会到底在哪？是追逐下一个热点，还是寻找能够穿越周期的价值？最近，在由我们 TalkingWeb3 https://t.co/HI4jNLbScw",
+    "publish_time": "2025-08-20T19:14:03"
+  },
+  {
+    "file_name": "GyyopaibUAAErnD.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyyopaibUAAErnD.jpg",
+    "read_time": "2025-08-20 19:31:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 529,
+      "timestamp": "2025-08-20T19:32:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127092,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-20T19:32:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Y1Mx9c8d7E",
+    "publish_time": "2025-08-20T19:14:05"
+  },
+  {
+    "file_name": "GyyopasaUAAy_iZ.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyyopasaUAAy_iZ.jpg",
+    "read_time": "2025-08-20 19:31:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 530,
+      "timestamp": "2025-08-20T19:32:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118799,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-20T19:32:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Y1Mx9c8d7E",
+    "publish_time": "2025-08-20T19:14:05"
   }
 ]
