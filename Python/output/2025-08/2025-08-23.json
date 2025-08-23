@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "iqAD55f0RJbolMn4.mp4",
+    "user": {
+      "screen_name": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1959169928386445312/vid/avc1/1080x1080/iqAD55f0RJbolMn4.mp4?tag=21",
+    "read_time": "2025-08-23 16:39:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-23T16:40:06",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 482270,
+      "size_mb": 0.46,
+      "timestamp": "2025-08-23T16:39:45",
+      "download_attempts": 0
+    },
+    "full_text": "🤝 https://t.co/AQZsgDaWA6 × Hibt have officially entered a strategic partnership!\n\nOne is pioneering the tokenization of cultural assets.\nThe other — a leading global cryptocurrency exchange, ranked #33 on CoinMarketCap — offers 350+ spot trading pairs, with 200+ experienced https://t.co/se4BEdO2ZT",
+    "publish_time": "2025-08-23T16:26:38"
+  }
+]
