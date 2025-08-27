@@ -312,5 +312,139 @@
     },
     "full_text": "🚚 The long-awaited merch is on the way — #RwaART is shipping!\n\n📦 Keep an eye on your delivery info, expected to arrive within 7 days.\n🙏 Thanks for your support!\n#NFT holders will continue to enjoy more exclusive benefits.\n\n#Web3 #BUCOIN #giveaway https://t.co/frkwIIgMGy",
     "publish_time": "2025-08-27T18:26:19"
+  },
+  {
+    "file_name": "ELEzBJ1I2w6vQ6Qu.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1960720891215798285/vid/avc1/1920x1080/ELEzBJ1I2w6vQ6Qu.mp4?tag=21",
+    "read_time": "2025-08-27 23:36:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (430MB > 50MB)",
+      "timestamp": "2025-08-27T23:36:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 451857390,
+      "size_mb": 430.92,
+      "timestamp": "2025-08-27T23:36:18",
+      "download_attempts": 0
+    },
+    "full_text": "手机“挖矿”稳赚不赔？我们和QKN创始人聊了聊背后的真相 💡 https://t.co/GoDto5EcKz",
+    "publish_time": "2025-08-27T23:18:58"
+  },
+  {
+    "file_name": "GzXj0wlasAAt8Uz.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXj0wlasAAt8Uz.jpg",
+    "read_time": "2025-08-27 23:36:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-27T23:36:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 170231,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-27T23:36:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gR3BJrIodv",
+    "publish_time": "2025-08-27T23:19:07"
+  },
+  {
+    "file_name": "GzXj0wkagAAdqyj.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXj0wkagAAdqyj.jpg",
+    "read_time": "2025-08-27 23:36:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 554,
+      "timestamp": "2025-08-27T23:36:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171627,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-27T23:36:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gR3BJrIodv",
+    "publish_time": "2025-08-27T23:19:07"
+  },
+  {
+    "file_name": "GzXj0wla4AIGan6.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXj0wla4AIGan6.jpg",
+    "read_time": "2025-08-27 23:36:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 555,
+      "timestamp": "2025-08-27T23:36:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175113,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-27T23:36:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gR3BJrIodv",
+    "publish_time": "2025-08-27T23:19:07"
+  },
+  {
+    "file_name": "GzXj0xBa4AwUVA4.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXj0xBa4AwUVA4.jpg",
+    "read_time": "2025-08-27 23:36:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 556,
+      "timestamp": "2025-08-27T23:36:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166830,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-27T23:36:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gR3BJrIodv",
+    "publish_time": "2025-08-27T23:19:07"
   }
 ]
