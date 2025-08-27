@@ -1,0 +1,54 @@
+[
+  {
+    "file_name": "GzVM-f0bEAArNfC.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzVM-f0bEAArNfC.jpg",
+    "read_time": "2025-08-27 12:39:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 543,
+      "timestamp": "2025-08-27T12:39:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 258713,
+      "size_mb": 0.25,
+      "timestamp": "2025-08-27T12:39:13",
+      "download_attempts": 0
+    },
+    "full_text": "【TalkingWeb3 &amp; D.Plan】百大KOL直播预告！🎮\n\nWeb3链游财富新浪潮，DeFi和GameFi的下一代链游新平台\n\n重铸GameFi财富革命 &amp; 瓜分 $30,000 创意赛奖池！当游戏代币与治理代币形成价值闭环，当后入场玩家也能获得算力补偿，GameFi将迎来怎样的范式革命？本周日晚，我们深度对话D.Plan https://t.co/ciK5f04RKy",
+    "publish_time": "2025-08-27T12:22:50"
+  },
+  {
+    "file_name": "1MYxNlbpbLRGw",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1MYxNlbpbLRGw",
+    "read_time": "2025-08-27 12:39:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 544,
+      "timestamp": "2025-08-27T12:39:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-08-27T12:39:15",
+      "download_attempts": 0
+    },
+    "full_text": "🎥 X 直播入口： https://t.co/P2PeUzPo3q",
+    "publish_time": "2025-08-27T12:22:51"
+  }
+]
