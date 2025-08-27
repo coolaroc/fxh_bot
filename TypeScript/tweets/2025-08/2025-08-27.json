@@ -76,5 +76,36 @@
     "tweetUrl": "https://x.com/FeiXiaoHaoZH/status/1960582832847512010",
     "fullText": "#非小号 #Teltlk #Web3 #区块链 #去中心化 #TTToken #Visa卡 #数字货币 #Xmall",
     "publishTime": "2025-08-27T13:59:07"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960573259969388545/vid/avc1/1920x1080/a6qDDV7I5CHCenUn.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1960631403642806500",
+    "fullText": "监管是Web3的紧箍咒还是安全网？一场神仙打架，告诉你游戏规则正在如何改变！💡\n\n转账怕地址填错，收款怕收到“黑钱”，想参与真实世界资产（RWA）投资，又被繁琐的KYC劝退……在Web3的世界里，我们渴望极致的自由，却也时常为潜在的风险而焦虑。自由和安全，真的就成了一对不可调和的矛盾吗？ https://t.co/MjMWsG7777",
+    "publishTime": "2025-08-27T17:12:08"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzWP3iqa4AA9Q-7.jpg",
+      "https://pbs.twimg.com/media/GzWP3ila4AMEBdG.jpg",
+      "https://pbs.twimg.com/media/GzWP3ioaEAA3Bxh.jpg",
+      "https://pbs.twimg.com/media/GzWP3p5a4AcELUr.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1960631415898562679",
+    "fullText": "https://t.co/oaA2JeQmTk",
+    "publishTime": "2025-08-27T17:12:10"
   }
 ]
