@@ -328,14 +328,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (430MB > 50MB)",
       "timestamp": "2025-08-27T23:36:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 451857390,
       "size_mb": 430.92,
-      "timestamp": "2025-08-27T23:36:18",
+      "timestamp": "2025-08-27T23:58:29",
       "download_attempts": 0
     },
     "full_text": "手机“挖矿”稳赚不赔？我们和QKN创始人聊了聊背后的真相 💡 https://t.co/GoDto5EcKz",
@@ -350,20 +350,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzXj0wlasAAt8Uz.jpg",
     "read_time": "2025-08-27 23:36:12",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-27T23:36:38",
-      "notification_sent": false
+      "success": true,
+      "message_id": 558,
+      "timestamp": "2025-08-27T23:58:30"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 170231,
       "size_mb": 0.16,
-      "timestamp": "2025-08-27T23:36:18",
+      "timestamp": "2025-08-27T23:58:29",
       "download_attempts": 0
     },
     "full_text": "https://t.co/gR3BJrIodv",
