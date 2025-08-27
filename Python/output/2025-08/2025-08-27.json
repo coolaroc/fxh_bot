@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (463MB > 50MB)",
       "timestamp": "2025-08-27T17:37:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 486245763,
       "size_mb": 463.72,
-      "timestamp": "2025-08-27T17:37:00",
+      "timestamp": "2025-08-27T17:59:02",
       "download_attempts": 0
     },
     "full_text": "监管是Web3的紧箍咒还是安全网？一场神仙打架，告诉你游戏规则正在如何改变！💡\n\n转账怕地址填错，收款怕收到“黑钱”，想参与真实世界资产（RWA）投资，又被繁琐的KYC劝退……在Web3的世界里，我们渴望极致的自由，却也时常为潜在的风险而焦虑。自由和安全，真的就成了一对不可调和的矛盾吗？ https://t.co/MjMWsG7777",
