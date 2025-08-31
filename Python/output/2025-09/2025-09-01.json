@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (242MB > 50MB)",
       "timestamp": "2025-09-01T01:58:35",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 254120023,
       "size_mb": 242.35,
-      "timestamp": "2025-09-01T01:58:35",
+      "timestamp": "2025-09-01T02:41:21",
       "download_attempts": 0
     },
     "full_text": "GameFi“死亡螺旋”有解了？D.Plan的双币玩法，真能改写“挖卖提”剧本？💡\n\n你是否也曾对某个GameFi项目满怀期待，日夜“打金”，最终却在无情的抛压和“死亡螺旋”中黯然离场？看着手里的代币价值归零，社区从热闹到沉寂，我们不禁要问：难道链游的宿命就只有“挖、卖、提”这一条路吗？ https://t.co/3VXLnuKEbK",
