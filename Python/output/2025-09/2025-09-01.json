@@ -1,0 +1,108 @@
+[
+  {
+    "file_name": "37s1rSyOmhregJs7.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1962207228406173696/vid/avc1/1280x720/37s1rSyOmhregJs7.mp4?tag=21",
+    "read_time": "2025-09-01 01:58:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (242MB > 50MB)",
+      "timestamp": "2025-09-01T01:58:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 254120023,
+      "size_mb": 242.35,
+      "timestamp": "2025-09-01T01:58:35",
+      "download_attempts": 0
+    },
+    "full_text": "GameFi“死亡螺旋”有解了？D.Plan的双币玩法，真能改写“挖卖提”剧本？💡\n\n你是否也曾对某个GameFi项目满怀期待，日夜“打金”，最终却在无情的抛压和“死亡螺旋”中黯然离场？看着手里的代币价值归零，社区从热闹到沉寂，我们不禁要问：难道链游的宿命就只有“挖、卖、提”这一条路吗？ https://t.co/3VXLnuKEbK",
+    "publish_time": "2025-09-01T01:48:43"
+  },
+  {
+    "file_name": "GzssdRfaIAAWf5K.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzssdRfaIAAWf5K.jpg",
+    "read_time": "2025-09-01 01:58:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 573,
+      "timestamp": "2025-09-01T01:58:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185825,
+      "size_mb": 0.18,
+      "timestamp": "2025-09-01T01:58:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UilxuXW8pb",
+    "publish_time": "2025-09-01T01:48:45"
+  },
+  {
+    "file_name": "GzssdRsakAE3qvc.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzssdRsakAE3qvc.jpg",
+    "read_time": "2025-09-01 01:58:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 574,
+      "timestamp": "2025-09-01T01:58:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180799,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-01T01:58:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UilxuXW8pb",
+    "publish_time": "2025-09-01T01:48:45"
+  },
+  {
+    "file_name": "GzssdRdaUAA-vEn.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzssdRdaUAA-vEn.jpg",
+    "read_time": "2025-09-01 01:58:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 575,
+      "timestamp": "2025-09-01T01:58:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179558,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-01T01:58:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UilxuXW8pb",
+    "publish_time": "2025-09-01T01:48:45"
+  }
+]
