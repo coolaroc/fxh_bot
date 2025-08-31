@@ -120,14 +120,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (259MB > 50MB)",
       "timestamp": "2025-09-01T04:33:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 272369385,
       "size_mb": 259.75,
-      "timestamp": "2025-09-01T04:33:55",
+      "timestamp": "2025-09-01T04:58:19",
       "download_attempts": 0
     },
     "full_text": "干掉中间商！《Otalk Star Stage》首秀揭秘 Web3 创作者经济的终极答案 💡\n\n你是否也曾在某个平台辛辛苦苦创作内容，却发现大部分收益都进了平台的口袋？或者作为一名粉丝，你的每一次点赞和支持，除了带来片刻的满足，还能否有更直接的价值回馈？\n\n警告！一场旨在颠覆现状的风暴正在登陆。OTalk https://t.co/RCOOlrbNYw",
