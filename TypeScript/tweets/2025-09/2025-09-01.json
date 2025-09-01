@@ -116,5 +116,33 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1962452657861476617",
     "fullText": "🎥 X 直播入口： https://t.co/QhUqtDtiYm",
     "publishTime": "2025-09-01T17:49:08"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzwWOKsaIAA8dyb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1962467982652907893",
+    "fullText": "【TalkingWeb3 &amp; Auricore】百大KOL直播预告！🌍\n\nAuricore从矿山到链上：RWA黄金的数字化革命与GameFi新玩法\n\n黄金 = https://t.co/YjTKOaQnvV",
+    "publishTime": "2025-09-01T18:50:02"
+  },
+  {
+    "user": {
+      "screenName": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/broadcasts/1zqKVdwOkvAJB"
+    ],
+    "tweetUrl": "https://x.com/0xTalkingWeb3/status/1962467985706385904",
+    "fullText": "🎥 X 直播入口： https://t.co/cgp0hd7yrp",
+    "publishTime": "2025-09-01T18:50:03"
   }
 ]

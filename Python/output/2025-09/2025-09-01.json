@@ -314,5 +314,57 @@
     },
     "full_text": "🎥 X 直播入口： https://t.co/QhUqtDtiYm",
     "publish_time": "2025-09-01T17:49:08"
+  },
+  {
+    "file_name": "GzwWOKsaIAA8dyb.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzwWOKsaIAA8dyb.jpg",
+    "read_time": "2025-09-01 18:58:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 583,
+      "timestamp": "2025-09-01T18:58:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 272415,
+      "size_mb": 0.26,
+      "timestamp": "2025-09-01T18:58:19",
+      "download_attempts": 0
+    },
+    "full_text": "【TalkingWeb3 &amp; Auricore】百大KOL直播预告！🌍\n\nAuricore从矿山到链上：RWA黄金的数字化革命与GameFi新玩法\n\n黄金 = https://t.co/YjTKOaQnvV",
+    "publish_time": "2025-09-01T18:50:02"
+  },
+  {
+    "file_name": "1zqKVdwOkvAJB",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1zqKVdwOkvAJB",
+    "read_time": "2025-09-01 18:58:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 584,
+      "timestamp": "2025-09-01T18:58:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2025-09-01T18:58:37",
+      "download_attempts": 0
+    },
+    "full_text": "🎥 X 直播入口： https://t.co/cgp0hd7yrp",
+    "publish_time": "2025-09-01T18:50:03"
   }
 ]
