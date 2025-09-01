@@ -58,5 +58,21 @@
     "tweetUrl": "https://x.com/0xTalkingWeb3/status/1962243852913512612",
     "fullText": "https://t.co/KPlXNvacJW",
     "publishTime": "2025-09-01T03:59:25"
+  },
+  {
+    "user": {
+      "screenName": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1962366211288866816/vid/avc1/1080x1080/KbNh5HX4XO9HMlM2.mp4?tag=21"
+    ],
+    "expandUrls": [
+      "http://RWA.ART"
+    ],
+    "tweetUrl": "https://x.com/RwaArtInc/status/1962366283984654424",
+    "fullText": "🤝 https://t.co/AQZsgDaWA6 × @PlayEstates have officially entered a strategic partnership!\n\nOne is pioneering the tokenization of cultural assets.\nThe other — an AI-powered RWA ecosystem merging blockchain with real estate, venture capital, and yield assets — democratizes https://t.co/M11KwgzPS1",
+    "publishTime": "2025-09-01T12:05:55"
   }
 ]
