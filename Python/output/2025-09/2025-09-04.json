@@ -1,0 +1,134 @@
+[
+  {
+    "file_name": "BJLPzalMOvatAtPM.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1963263839203672064/vid/avc1/1280x720/BJLPzalMOvatAtPM.mp4?tag=21",
+    "read_time": "2025-09-04 00:41:42",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (214MB > 50MB)",
+      "timestamp": "2025-09-04T00:42:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 224822211,
+      "size_mb": 214.41,
+      "timestamp": "2025-09-04T00:42:02",
+      "download_attempts": 0
+    },
+    "full_text": "黄金还能这么玩？深度揭秘 Auricore 如何打通金矿的“任督二脉”！🪙\n\n当 RWA（真实世界资产）的浪潮席卷而来，我们听了太多关于美债、房产上链的宏大叙事，但总感觉离普通人的生活有点远。有没有一个项目，既脚踏实地，又充满想象力？在今晚的「TalkingWeb3」百大 KOL https://t.co/IbUiVdCUoH",
+    "publish_time": "2025-09-04T00:05:46"
+  },
+  {
+    "file_name": "Gz7qF0eboAA3G8I.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7qF0eboAA3G8I.jpg",
+    "read_time": "2025-09-04 00:41:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 594,
+      "timestamp": "2025-09-04T00:42:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172971,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-04T00:42:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mav7BJvcOE",
+    "publish_time": "2025-09-04T00:05:47"
+  },
+  {
+    "file_name": "Gz7qF0oaoAAcvuO.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7qF0oaoAAcvuO.jpg",
+    "read_time": "2025-09-04 00:41:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 595,
+      "timestamp": "2025-09-04T00:42:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179007,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-04T00:42:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mav7BJvcOE",
+    "publish_time": "2025-09-04T00:05:47"
+  },
+  {
+    "file_name": "Gz7qF0iawAAbujO.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7qF0iawAAbujO.jpg",
+    "read_time": "2025-09-04 00:41:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 596,
+      "timestamp": "2025-09-04T00:42:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173958,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-04T00:42:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mav7BJvcOE",
+    "publish_time": "2025-09-04T00:05:47"
+  },
+  {
+    "file_name": "Gz7qF0kaYAAn2Qf.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7qF0kaYAAn2Qf.jpg",
+    "read_time": "2025-09-04 00:41:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 597,
+      "timestamp": "2025-09-04T00:42:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169147,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-04T00:42:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mav7BJvcOE",
+    "publish_time": "2025-09-04T00:05:47"
+  }
+]
