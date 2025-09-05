@@ -76,5 +76,137 @@
     },
     "full_text": "X Live Link: https://t.co/7LvE3f6eZn",
     "publish_time": "2025-09-05T15:08:42"
+  },
+  {
+    "file_name": "CLc7SqCbMgj8pPxj.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1963873136522444800/vid/avc1/1280x720/CLc7SqCbMgj8pPxj.mp4?tag=21",
+    "read_time": "2025-09-05 16:41:01",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (234MB > 50MB)",
+      "timestamp": "2025-09-05T16:41:23",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 246311804,
+      "size_mb": 234.9,
+      "timestamp": "2025-09-05T16:41:23",
+      "download_attempts": 0
+    },
+    "full_text": "黄金还能“生利息”？告别静态保值，RWA 赛道还能这么玩！📈\n\n感觉市场风云变幻，手里的资产上上下下，心里总有点不踏实？你不是一个人。当大家都在寻找更稳健的资产时，一个古老而又可靠的名字总会浮现——黄金。但在 Web3 时代，持有黄金难道还只是把它存在保险柜里吗？\n\n为了探索这个问题的答案，我们 https://t.co/HFWk8f9AxD",
+    "publish_time": "2025-09-05T16:17:56"
+  },
+  {
+    "file_name": "G0EZvVPaQAAfUE2.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0EZvVPaQAAfUE2.jpg",
+    "read_time": "2025-09-05 16:41:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 605,
+      "timestamp": "2025-09-05T16:41:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172059,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-05T16:41:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dglQYCYSr5",
+    "publish_time": "2025-09-05T16:17:57"
+  },
+  {
+    "file_name": "G0EZvVSbsAAPFhH.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0EZvVSbsAAPFhH.jpg",
+    "read_time": "2025-09-05 16:41:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 606,
+      "timestamp": "2025-09-05T16:41:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171349,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-05T16:41:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dglQYCYSr5",
+    "publish_time": "2025-09-05T16:17:57"
+  },
+  {
+    "file_name": "G0EZvVTbEAAeCSI.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0EZvVTbEAAeCSI.jpg",
+    "read_time": "2025-09-05 16:41:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 607,
+      "timestamp": "2025-09-05T16:41:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171382,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-05T16:41:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dglQYCYSr5",
+    "publish_time": "2025-09-05T16:17:57"
+  },
+  {
+    "file_name": "G0EZvVebAAAs7Ep.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0EZvVebAAAs7Ep.jpg",
+    "read_time": "2025-09-05 16:41:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 608,
+      "timestamp": "2025-09-05T16:41:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156815,
+      "size_mb": 0.15,
+      "timestamp": "2025-09-05T16:41:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dglQYCYSr5",
+    "publish_time": "2025-09-05T16:17:57"
   }
 ]
