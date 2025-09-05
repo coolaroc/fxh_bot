@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (234MB > 50MB)",
       "timestamp": "2025-09-05T16:41:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 246311804,
       "size_mb": 234.9,
-      "timestamp": "2025-09-05T16:41:23",
+      "timestamp": "2025-09-05T16:58:03",
       "download_attempts": 0
     },
     "full_text": "黄金还能“生利息”？告别静态保值，RWA 赛道还能这么玩！📈\n\n感觉市场风云变幻，手里的资产上上下下，心里总有点不踏实？你不是一个人。当大家都在寻找更稳健的资产时，一个古老而又可靠的名字总会浮现——黄金。但在 Web3 时代，持有黄金难道还只是把它存在保险柜里吗？\n\n为了探索这个问题的答案，我们 https://t.co/HFWk8f9AxD",
