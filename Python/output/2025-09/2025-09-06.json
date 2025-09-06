@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (244MB > 50MB)",
       "timestamp": "2025-09-06T16:35:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 256369863,
       "size_mb": 244.49,
-      "timestamp": "2025-09-06T16:35:10",
+      "timestamp": "2025-09-06T16:58:47",
       "download_attempts": 0
     },
     "full_text": "AI+RWA颠覆娱乐：看短剧，还能成为“合伙人”？🤯\n\n你是否曾经有过这样的体验：熬夜追一部短剧，为主角的命运心潮澎湃，却在剧集结束后感到空虚？内容消费固然带来了乐趣，但我们似乎永远只是坐在屏幕前的旁观者。在这个充满变革的Web3时代，当我们讨论AI和RWA时，它们究竟能为我们的日常娱乐带来什么？ https://t.co/bLg1vtVZPt",
