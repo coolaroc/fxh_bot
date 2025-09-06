@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "file_name": "pG7klThk8Ep5iXrz.mp4",
+    "user": {
+      "screen_name": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964190024016269312/vid/avc1/1080x1080/pG7klThk8Ep5iXrz.mp4?tag=21",
+    "read_time": "2025-09-06 12:58:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 609,
+      "timestamp": "2025-09-06T12:58:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 446677,
+      "size_mb": 0.43,
+      "timestamp": "2025-09-06T12:58:11",
+      "download_attempts": 0
+    },
+    "full_text": "🤝 https://t.co/AQZsgDaWA6 × @Savvy_RWA have officially entered a strategic partnership!\n\nOne is pioneering the tokenization of cultural assets.\nThe other — a modular on-chain infrastructure protocol for Real World Assets  — provides seamless tokenization, compliance, and https://t.co/WXRnYauimt",
+    "publish_time": "2025-09-06T12:53:06"
+  }
+]
