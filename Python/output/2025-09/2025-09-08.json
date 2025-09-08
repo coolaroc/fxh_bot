@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (242MB > 50MB)",
       "timestamp": "2025-09-08T17:38:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 254705603,
       "size_mb": 242.91,
-      "timestamp": "2025-09-08T17:38:43",
+      "timestamp": "2025-09-08T17:58:14",
       "download_attempts": 0
     },
     "full_text": "《Otalk Star Stage》独家呈现：币圈比娱乐圈还乱？一场 Web3 顶流们的“光明顶之战” ⚡️\n\n你是不是也经常觉得，这 Web3 圈子里的瓜，比娱乐圈的还要香？前一秒还在为某项目喊单，后一秒可能就深陷“狗庄”的争议；今天的朋友，明天可能就因为观点不合在 Twitter 上互喷。这些看似混乱的局面，其实是 Web3 https://t.co/juCoNsnu5l",
