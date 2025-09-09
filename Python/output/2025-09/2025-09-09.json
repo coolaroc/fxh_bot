@@ -1,0 +1,160 @@
+[
+  {
+    "file_name": "gPeA-HK6s47dpQoD.mp4",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1965291441003122688/vid/avc1/1280x720/gPeA-HK6s47dpQoD.mp4?tag=21",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (289MB > 50MB)",
+      "timestamp": "2025-09-09T14:46:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 303944536,
+      "size_mb": 289.86,
+      "timestamp": "2025-09-09T14:46:36",
+      "download_attempts": 0
+    },
+    "full_text": "A \"Lego Land\" to Connect \"Value Islands\"? The Web3 Ecosystem Is About to Get a Major Upgrade! 💡\n\nHave you ever had this experience? You spend a ton of time and effort to buy a specific token for a Web3 game, only to see its value plummet to zero when the game fizzles out. What's https://t.co/70W0SBDQ9X",
+    "publish_time": "2025-09-09T14:06:50"
+  },
+  {
+    "file_name": "G0YeUrKbgAcHCf8.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0YeUrKbgAcHCf8.jpg",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 624,
+      "timestamp": "2025-09-09T14:46:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 235924,
+      "size_mb": 0.22,
+      "timestamp": "2025-09-09T14:46:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AIuFgXj73B",
+    "publish_time": "2025-09-09T14:06:51"
+  },
+  {
+    "file_name": "G0YeUq6boAAP4hj.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0YeUq6boAAP4hj.jpg",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 625,
+      "timestamp": "2025-09-09T14:46:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 225789,
+      "size_mb": 0.22,
+      "timestamp": "2025-09-09T14:46:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AIuFgXj73B",
+    "publish_time": "2025-09-09T14:06:51"
+  },
+  {
+    "file_name": "G0YeUrJbgAAzgSH.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0YeUrJbgAAzgSH.jpg",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 626,
+      "timestamp": "2025-09-09T14:46:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 230298,
+      "size_mb": 0.22,
+      "timestamp": "2025-09-09T14:46:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AIuFgXj73B",
+    "publish_time": "2025-09-09T14:06:51"
+  },
+  {
+    "file_name": "G0YeUrRbgAQ_TeT.jpg",
+    "user": {
+      "screen_name": "0xTalkingWeb3",
+      "name": "Talking Web3"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0YeUrRbgAQ_TeT.jpg",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 627,
+      "timestamp": "2025-09-09T14:46:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 234334,
+      "size_mb": 0.22,
+      "timestamp": "2025-09-09T14:46:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AIuFgXj73B",
+    "publish_time": "2025-09-09T14:06:51"
+  },
+  {
+    "file_name": "G0YjvCzakAAy3BZ.jpg",
+    "user": {
+      "screen_name": "RwaArtInc",
+      "name": "RWA.ART"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0YjvCzakAAy3BZ.jpg",
+    "read_time": "2025-09-09 14:46:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 628,
+      "timestamp": "2025-09-09T14:46:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119315,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-09T14:46:51",
+      "download_attempts": 0
+    },
+    "full_text": "🎉 Thank you all for supporting the RWA Telegram Carnival!\n\nRound 1 (Sept 4 – Sept 8) has successfully concluded — congratulations to all winners 🏆\n\n📩 Winners, please contact the admin to claim your rewards:\nTelegram Group: https://t.co/yfcsPP3ym1\nAdmin: @yelidexingxing\n\n⚡ https://t.co/Ul4fkTaNcc",
+    "publish_time": "2025-09-09T14:13:53"
+  }
+]
