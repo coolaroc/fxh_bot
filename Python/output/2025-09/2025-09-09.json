@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (289MB > 50MB)",
       "timestamp": "2025-09-09T14:46:36",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 303944536,
       "size_mb": 289.86,
-      "timestamp": "2025-09-09T14:46:36",
+      "timestamp": "2025-09-09T14:59:17",
       "download_attempts": 0
     },
     "full_text": "A \"Lego Land\" to Connect \"Value Islands\"? The Web3 Ecosystem Is About to Get a Major Upgrade! 💡\n\nHave you ever had this experience? You spend a ton of time and effort to buy a specific token for a Web3 game, only to see its value plummet to zero when the game fizzles out. What's https://t.co/70W0SBDQ9X",
